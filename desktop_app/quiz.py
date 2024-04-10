@@ -49,7 +49,7 @@ def load_questions(file_path):
     return data['questions']
 
 def main():
-    file_path = r'C:\Users\mohsa\OneDrive\Desktop\info\python-coding-journey\desktop_app\questions.json'
+    file_path = r'.\questions.json'
     questions = load_questions(file_path)
     random.shuffle(questions)
     
