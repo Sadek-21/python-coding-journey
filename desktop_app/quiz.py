@@ -2,6 +2,7 @@ import tkinter as tk
 from tkinter import messagebox
 import json
 import random
+import os
 
 class QuizApp:
     def __init__(self, master, questions):
@@ -49,7 +50,9 @@ def load_questions(file_path):
     return data['questions']
 
 def main():
-    file_path = r'C:\Users\mohsa\OneDrive\Desktop\info\python-coding-journey\desktop_app\questions.json'
+    # Get the current directory of the script
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    file_path = os.path.join(current_dir, 'questions.json')
     questions = load_questions(file_path)
     random.shuffle(questions)
     
