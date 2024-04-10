@@ -49,13 +49,14 @@ def load_questions(file_path):
     return data['questions']
 
 def main():
-    file_path = 'questions.json'  # Update with your JSON file path
+    file_path = r'C:\Users\mohsa\OneDrive\Desktop\info\python-coding-journey\desktop_app\questions.json'
     questions = load_questions(file_path)
     random.shuffle(questions)
     
     root = tk.Tk()
     app = QuizApp(root, questions)
     root.mainloop()
+
 
 if __name__ == "__main__":
     main()
