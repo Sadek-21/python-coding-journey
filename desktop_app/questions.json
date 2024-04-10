@@ -1,0 +1,1458 @@
+{
+    "questions": [
+      {
+        "id": 3001,
+        "question": "Retrolental fibroplasia is a complication of:",
+        "options": ["chemotherapy", "hydrotherapy", "radiotherapy", "physiotherapy", "oxygen therapy"],
+        "answer": "e"
+      },
+      {
+        "id": 3002,
+        "question": "Cardioversion may be indicated in the treatment of:",
+        "options": ["complete AV block", "digitalis toxicity", "atrial fibrillation", "multifocal atrial tachycardia", "repeated short lived tachycardias"],
+        "answer": "c"
+      },
+      {
+        "id": 3003,
+        "question": "Parkinsonian side effects of phenothiazine are best treated with:",
+        "options": ["haloperidol", "lorazepam (Ativan)", "chlordiazepoxide", "benztropine mesylate", "lithium carbonate"],
+        "answer": "d"
+      },
+      {
+        "id": 3004,
+        "question": "The etiologic agent in molluscum contagiosum (painless/small/firm/umbilicated/white surface papules) is:",
+        "options": ["RNA virus", "DNA virus (poxvirus)", "chlamydia trachomatis", "staphylococcus aureus", "papilloma virus"],
+        "answer": "b"
+      },
+      {
+        "id": 3005,
+        "question": "Ruptured Baker's cyst (which causes a painful swelling of the popliteal fossa) is most to be seen in:",
+        "options": ["osteoarthritis", "gout", "ankylosing spondylitis", "rheumatoid arthritis", "psoriatic arthritis"],
+        "answer": "a"
+      },
+      {
+        "id": 3006,
+        "question": "Heparin effect is neutralized by:",
+        "options": ["warfarin sodium", "protamine sulphate", "phenylbutazone", "streptokinase", "tissue type plasminogen activator"],
+        "answer": "b"
+      },
+      {
+        "id": 3007,
+        "question": "The most common breast tumor is:",
+        "options": ["papillary carcinoma", "medullary carcinoma", "inflammatory carcinoma", "infiltrating ductal scirrhous carcinoma", "fibroadenoma"],
+        "answer": "d"
+      },
+      {
+        "id": 3008,
+        "question": "Carcinoma of the prostate is treated with:",
+        "options": ["tolazamide", "prednisone", "bromocriptine", "androgen", "estrogen"],
+        "answer": "d"
+      },
+      {
+        "id": 3009,
+        "question": "Atropine poisoning is treated with:",
+        "options": ["amitriptyline", "epinephrine", "pilorocaprine", "neostigmine", "physostigmine"],
+        "answer": "e"
+      },
+      {
+        "id": 3010,
+        "question": "Imipramine is indicated in treatment of following disorders, EXCEPT:",
+        "options": ["acute panic disorder", "acute mania", "major depression", "enuresis", "cataplexy"],
+        "answer": "b"
+      },
+      {
+        "id": 3011,
+        "question": "Sprengel's deformity is a congenital elevation of:",
+        "options": ["hip", "patella", "scapula", "sternum", "clavicle"],
+        "answer": "c"
+      },
+      {
+        "id": 3012,
+        "question": "7 year old boy presents with right upper thigh and right knee pain when walking, the most likely diagnosis is:",
+        "options": ["Kohler's disease", "Osgood Schlatter's disease", "Legg Calve Perths' disease", "congenital dislocation of the hip", "slipped capital femoral epiphysis"],
+        "answer": "e"
+      },
+      {
+        "id": 3013,
+        "question": "Osteogenesis imperfecta (brittle bones) is NOT associated with:",
+        "options": ["deafness", "tall stature", "blue sclerae", "bone fragility", "skull deformity"],
+        "answer": "b"
+      },
+      {
+        "id": 3014,
+        "question": "Regarding osteoarthritis, which of the following is TRUE?",
+        "options": ["usually affects small joints", "more common in men than in women", "joint pain is precipitated by exertion", "more common in thin and athletic people", "onset is generally before 40 years of age"],
+        "answer": "c"
+      },
+      {
+        "id": 3015,
+        "question": "3 months after a measles infection, a 7 year old boy develops seizures, the most likely diagnosis is:",
+        "options": ["phenylketonuria", "subarachnoid hemorrhage", "benign febrile seizures", "maple syrup urine disease", "subacute sclerosing panencephalitis"],
+        "answer": "e"
+      },
+      {
+        "id": 3016,
+        "question": "12 year old boy presents with fever and bilateral parotid enlargement, the most likely diagnosis is:",
+        "options": ["mumps", "sarcoidosis", "typhoid fever", "acute leukemia", "mixed (pleomorphic) tumor of parotid"],
+        "answer": "a"
+      },
+      {
+        "id": 3017,
+        "question": "Hypertension is most likely to be associated with:",
+        "options": ["mastocytosis", "Addison's disease", "cardiac tamponade", "carcinoid syndrome", "Recklinghausen's disease (neurofibromatosis)"],
+        "answer": "e"
+      },
+      {
+        "id": 3018,
+        "question": "Short PR interval and normal QRS interval without a delta wave are seen in:",
+        "options": ["hypokalemia", "hypermagnesemia", "first degree heart block", "Lown-Ganong-Levine syndrome", "Wolf-Parkinson-White syndrome"],
+        "answer": "d"
+      },
+      {
+        "id": 3019,
+        "question": "A baby turns blue whenever stops crying, the most likely diagnosis is:",
+        "options": ["lung abscess", "cystic fibrosis", "mitral stenosis", "choanal atresia", "tetralogy of Fallot"],
+        "answer": "e"
+      },
+      {
+        "id": 3020,
+        "question": "Which of the following should be ruled out in a 15 year old boy with gynecomastia?",
+        "options": ["Down's syndrome", "Edward's syndrome", "Turner's syndrome", "fragile X syndrome", "Klinefelter's syndrome"],
+        "answer": "e"
+      },
+      {
+        "id": 3051,
+        "question": "Virus most commonly involved in pleurodynia, myocarditis and pericarditis is:",
+        "options": ["adenovirus", "mumps virus", "coronavirus", "coxsackievirus B", "respiratory syncytial virus"],
+        "answer": "d"
+      },
+      {
+        "id": 3052,
+        "question": "Virus most commonly involved in pharyngitis is:",
+        "options": ["adenovirus", "mumps virus", "coronavirus", "cytomegalovirus", "respiratory syncytial virus"],
+        "answer": "a"
+      },
+      {
+        "id": 3053,
+        "question": "The most common cause of granulomatous cervical lymphadenopathy in children is mycobacterium:",
+        "options": ["marinum", "kansasii", "fortuitum", "scrofulaceum", "avium-intercellulare"],
+        "answer": "d"
+      },
+      {
+        "id": 3054,
+        "question": "Goats and sheep are most likely to transmit:",
+        "options": ["yersinia", "brucella", "schistosoma", "giardia lamblia", "pasteurella multocida"],
+        "answer": "b"
+      },
+      {
+        "id": 3055,
+        "question": "Hansen's disease is diagnosed by:",
+        "options": ["Ham's test", "Frei's test", "Coomb's test", "Lepromin test", "Schirmer test"],
+        "answer": "d"
+      },
+      {
+        "id": 3056,
+        "question": "Infants with cyanosis, respiratory distress, drooling saliva, choking and regurgitation immediately after birth is most commonly due to:",
+        "options": ["tetralogy of Fallot", "aspiration pneumonia", "hyaline membrane disease", "bronchial asthma", "esophageal atresia"],
+        "answer": "e"
+      },
+      {
+        "id": 3057,
+        "question": "Following are contraindications for live measles vaccine, EXCEPT:",
+        "options": ["antineoplastic and steroid therapy", "mitral stenosis", "allergy to neomycin", "immunodeficiency disorders", "systemic malignancy"],
+        "answer": "e"
+      },
+      {
+        "id": 3058,
+        "question": "Following are absolute contraindications to further pertussis vaccination, EXCEPT:",
+        "options": ["high fever", "collapse state", "encephalopathy", "unusual high-pitched cry", "family history of seizures"],
+        "answer": "a"
+      },
+      {
+        "id": 3059,
+        "question": "Which of the following is a familial disorder of Hartnup's disease characterized by hypercalcemia and nephrocalcinosis?",
+        "options": ["cretinism", "alkaptonuria", "Wilson's disease", "blue-diaper syndrome", "progressive muscular dystrophy"],
+        "answer": "b"
+      },
+      {
+        "id": 3060,
+        "question": "Mentally retarded child with protruding belly, large head, membranous corneal veil, thick lips and tongue, the most likely diagnosis is:",
+        "options": ["congenital hypothyroidism", "Down's syndrome", "gargoylism", "Wilson's disease", "progressive muscular dystrophy"],
+        "answer": "b"
+      },
+      {
+        "id": 3061,
+        "question": "Following are side effects of estrogen therapy, EXCEPT:",
+        "options": ["nausea", "headache", "weight loss", "breast tenderness", "menstrual bleeding"],
+        "answer": "c"
+      },
+      {
+        "id": 3062,
+        "question": "Following are absolute contraindications for renal biopsy, EXCEPT:",
+        "options": ["hydronephrosis", "nephrotic syndrome", "bleeding diathesis", "renal hemangioma or tumor", "renal abscess or large cysts"],
+        "answer": "a"
+      },
+      {
+        "id": 3063,
+        "question": "Which of the following is contraindicated in the management of acute pancreatitis?",
+        "options": ["atropine", "meperidine", "morphine", "calcium sulphate", "serum albumin"],
+        "answer": "c"
+      },
+      {
+        "id": 3064,
+        "question": "A pregnant woman with vaginal bleeding and cramps but her pregnancy continues, the most likely diagnosis is:",
+        "options": ["inevitable abortion", "incomplete abortion", "missed abortion", "threatened abortion", "complete abortion"],
+        "answer": "d"
+      },
+      {
+        "id": 3065,
+        "question": "In polycystic ovary syndrome (Stein Leventhal syndrome):",
+        "options": ["both FSH/LH are increased", "FSH is normal/LH is increased", "FSH is increased/LH is normal", "both FSH/LH are decreased", "none of the above"],
+        "answer": "b"
+      },
+      {
+        "id": 3066,
+        "question": "Oliguria is associated with:",
+        "options": ["renal tubular acidosis", "Fanconi's syndrome", "lithium therapy", "hypercalcemia", "congestive heart failure"],
+        "answer": "e"
+      },
+      {
+        "id": 3067,
+        "question": "Which of the following is/are NOT seen in hemolytic uremic syndrome?",
+        "options": ["anuria/oliguria with acute renal failure", "thrombocytopenia/hemolysis", "hematuria/edema/hypertension", "positive Coombs test", "anemia/fragmented WBCs/fibrin deposition in kidneys"],
+        "answer": "d"
+      },
+      {
+        "id": 3068,
+        "question": "The most common cause of empyema is:",
+        "options": ["staphylococcus aureus", "streptococcus pyogenes", "escherichia coli", "pneumococcus (streptococcus) pneumoniae", "pseudomonas aeruginosa"],
+        "answer": "d"
+      },
+      {
+        "id": 3069,
+        "question": "Major depression with melancholia may be diagnosed by:",
+        "options": ["CT scan of the head", "electroencephalography", "X ray of the head", "dexamethasone suppression test", "none of the above"],
+        "answer": "d"
+      },
+      {
+        "id": 3070,
+        "question": "Alkaptonuria (ochronosis) is due to deficiency of the enzyme:",
+        "options": ["cytathionine synthase", "fructose 1 phosphatase", "homogentisic oxidase", "alpha L iduronidase", "acid lipase"],
+        "answer": "c"
+      },
+      {
+        "id": 3071,
+        "question": "Self-examination of the breast should be advised to:",
+        "options": ["postmenopausal women only", "nulliparous women only", "women with history of mammary dysplasia only", "all women over age 50 only", "all women over age 30"],
+        "answer": "e"
+      },
+      {
+        "id": 3072,
+        "question": "Following are common psychiatric disorders seen in the elderly, EXCEPT:",
+        "options": ["schizophrenia", "depression", "hypochondria", "anxiety", "paranoid ideation"],
+        "answer": "a"
+      },
+      {
+        "id": 3073,
+        "question": "Following are characteristics of ketoacidosis (ketosis/acidosis in IDDM), EXCEPT:",
+        "options": ["hypernatremia", "rapid deep breathing", "low arterial blood pH", "low plasma bicarbonate", "hyperglycemia/hypotension"],
+        "answer": "a"
+      },
+      {
+        "id": 3074,
+        "question": "Cheilosis is particularly common in association with deficiency of:",
+        "options": ["thiamine (B1)", "niacin", "pantothenic acid", "riboflavin (B2)", "folic acid"],
+        "answer": "d"
+      },
+      {
+        "id": 3075,
+        "question": "Which of following types of nails is most likely to be seen in patients with nephrotic syndrome/hypoalbuminemia?",
+        "options": ["yellow nails", "Mees' lines (transverse lines)", "Terry's nail (white proximal two thirds)", "Beau's lines (horizontal nail depression)", "Muehrcke's nails (two horizontal white stripes)"],
+        "answer": "c"
+      },
+      {
+        "id": 3076,
+        "question": "Sudden pain with rapidly scrotal enlargement, relieved by elevation of the scrotum is most likely to be caused by:",
+        "options": ["spermatocele", "testicular torsion", "hydrocele", "acute epididymitis", "testicular neoplasm"],
+        "answer": "b"
+      },
+      {
+        "id": 3077,
+        "question": "The progress of the disease in insulin dependent diabetes mellitus (IDDM) is best detected by:",
+        "options": ["glucose tolerance test", "serum fructosamine", "glycosylated hemoglobin", "ketonuria", "glycosuria"],
+        "answer": "c"
+      },
+      {
+        "id": 3078,
+        "question": "Inpatients with pregnancy-induced hypertension are usually treated with:",
+        "options": ["reserpine or labetol", "clonidine or propanolol", "nifedipine or diazoxide", "hydralazine or methyldopa", "captopril or nitroprusside"],
+        "answer": "d"
+      },
+      {
+        "id": 3079,
+        "question": "Chronic anal fissure is the most common cause of painful defecation and is LEAST likely to be associated with:",
+        "options": ["constipation", "rectal bleeding", "pruritus ani", "sentinel pile", "hypertrophied papilla"],
+        "answer": "c"
+      },
+      {
+        "id": 3080,
+        "question": "True statement regarding urinary tract infection (UTI) include:",
+        "options": ["in neonates/infants is more common in girls than in boys", "after 5 years of age is more common in girls", "bacteriuria during adolescence is more common in boys", "the incidence of UTI in women decreases with age", "of all ages, UTI is more common in males than in females"],
+        "answer": "d"
+      },
+      {
+        "id": 3081,
+        "question": "Long-term schizophrenia is best treated with supportive psychotherapy combined with:",
+        "options": ["benzodiazepine", "lithium carbonate", "amphetamine", "phenothiazine", "naloxone"],
+        "answer": "d"
+      },
+      {
+        "id": 3082,
+        "question": "The most common cause of hemoptysis in children is:",
+        "options": ["lung cancer", "pneumonia", "foreign body", "pulmonary embolism", "bronchiectasis"],
+        "answer": "b"
+      },
+      {
+        "id": 3083,
+        "question": "A bluish pigmentation spot over the lower back or buttocks of a dark-skinned infant may suggest the diagnosis of:",
+        "options": ["milia", "capillary hemangioma", "petechiae", "Mongolian spot", "lanugo"],
+        "answer": "d"
+      },
+      {
+        "id": 3084,
+        "question": "Close personal contacts of patients with hepatitis A should receive:",
+        "options": ["rifampin", "hepatitis B vaccine", "gamma globulin", "corticosteroids", "none of the above"],
+        "answer": "c"
+      },
+      {
+        "id": 3085,
+        "question": "Following are features of cretinism (juvenile hypothyroidism), EXCEPT:",
+        "options": ["delayed bone age", "stippling of epiphysis on bone X-ray", "pot belly with umbilical hernia", "increased serum cholesterol", "decreased serum TSH"],
+        "answer": "e"
+      },
+      {
+        "id": 3086,
+        "question": "Following are associated with anorexia nervosa, EXCEPT:",
+        "options": ["hypercholesterolemia", "osteoporosis", "hypercarotenemia", "tachycardia", "hypothermia"],
+        "answer": "a"
+      },
+      {
+        "id": 3087,
+        "question": "The initial symptoms of Lyme disease are regional lymphadenopathy and:",
+        "options": ["facial nerve palsy", "cardiac arrhythmia", "skin lesion", "back pain", "joint pain"],
+        "answer": "c"
+      },
+      {
+        "id": 3088,
+        "question": "Intentionally avoiding thinking about disturbing problems, wishes, feelings, or experiences is called:",
+        "options": ["dissociation", "sublimation", "undoing", "splitting", "suppression"],
+        "answer": "e"
+      },
+      {
+        "id": 3089,
+        "question": "Marjolin ulcer:",
+        "options": ["is an advanced gastric ulcer", "occurs in secondary syphilis", "is a malignant intestinal lesion caused by trauma", "is a malignant skin lesion in a burn scar", "is a basal cell carcinoma in a burn scar"],
+        "answer": "d"
+      },
+      {
+        "id": 3090,
+        "question": "The most common cause of dysphagia is:",
+        "options": ["achalasia", "scleroderma", "esophageal varices", "esophageal carcinoma", "esophageal stricture"],
+        "answer": "a"
+      },
+      {
+        "id": 3091,
+        "question": "11-year-old boy with reddish-purple patches on the eyelids and rash over the dorsum of the hands, your diagnosis is:",
+        "options": ["atopic dermatitis", "dermatomyositis", "psoriasis", "scleroderma", "dermatitis herpetiformis"],
+        "answer": "b"
+      },
+      {
+        "id": 3092,
+        "question": "Approximately 40% of patients with coarctation of the aorta have:",
+        "options": ["tricuspid atresia", "mitral valve disease", "bicuspid aortic valve", "tetralogy of Fallot", "subclavian steal syndrome"],
+        "answer": "c"
+      },
+      {
+        "id": 3093,
+        "question": "Whipple operation is used in surgical treatment of the carcinoma of:",
+        "options": ["lung", "pancreas", "bladder", "spleen", "kidney"],
+        "answer": "b"
+      },
+      {
+        "id": 3094,
+        "question": "Pulsus paradoxus (decreased systolic BP > 10mmHg during inspiration) is NOT a clinical feature of:",
+        "options": ["pulmonary embolism", "hypovolemia", "myocarditis", "pericarditis", "asthma"],
+        "answer": "a"
+      },
+      {
+        "id": 3095,
+        "question": "Following are associated with hirsutism (hypertrichosis), EXCEPT:",
+        "options": ["Cushing's syndrome", "hyperprolactinemia", "congenital adrenal hyperplasia", "granulosa cell ovarian tumor", "acromegaly"],
+        "answer": "e"
+      },
+      {
+        "id": 3096,
+        "question": "Following are promoters of the absorption of iron, EXCEPT:",
+        "options": ["gastric acid", "sugar", "alcohol", "cereals", "ascorbic acid"],
+        "answer": "c"
+      },
+      {
+        "id": 3097,
+        "question": "The best investigation for a child with recurrent bronchiolitis, nasal polyps, malabsorption and failure to thrive is:",
+        "options": ["bronchography", "pulmonary function tests", "blood gases", "sweat chloride test", "lung scan"],
+        "answer": "d"
+      },
+      {
+        "id": 3098,
+        "question": "Following are risk factors for acute pancreatitis, EXCEPT:",
+        "options": ["hyperparathyroidism", "family history of pancreatitis", "hypocalcemia", "thiazide diuretic therapy", "estrogen therapy"],
+        "answer": "e"
+      },
+      {
+        "id": 3099,
+        "question": "Which of the following types of polyps of colon is usually a premalignant lesion?",
+        "options": ["hyperplastic", "juvenile", "adenomas", "inflammatory", "hamartomas"],
+        "answer": "c"
+      },
+      {
+        "id": 3100,
+        "question": "The most common presentation of symptomatic Meckel's diverticulum is:",
+        "options": ["vomiting", "abdominal pain", "abdominal distention", "painful rectal bleeding", "painless rectal bleeding"],
+        "answer": "d"
+      },
+      {
+        "id": 3101,
+        "question": "The first stage in dying patients is:",
+        "options": ["anger", "acceptance", "bargaining", "denial", "depression"],
+        "answer": "d"
+      },
+      {
+        "id": 3102,
+        "question": "A woman presents with serosanguinous discharge from the nipple, your diagnosis is:",
+        "options": ["carcinoma", "mammary dysplasia", "fibroadenoma", "intraductal papilloma", "abscess"],
+        "answer": "d"
+      },
+      {
+        "id": 3103,
+        "question": "The most useful investigation for a patient with flank pain, fever and hematuria is:",
+        "options": ["liver biopsy", "muscle biopsy", "cystoscopy", "intravenous pyelogram", "urine culture"],
+        "answer": "d"
+      },
+      {
+        "id": 3104,
+        "question": "Undescended testicles (cryptorchidism) usually descent:",
+        "options": ["immediately after birth", "between second-fourth month of life", "during the first nine months of life", "between first-third year of life", "before one month of age"],
+        "answer": "d"
+      },
+      {
+        "id": 3105,
+        "question": "The most common site of tinea versicolor is:",
+        "options": ["intertriginous areas", "face/scalp", "upper/lower extremities", "upper trunk/neck", "fingers/toes"],
+        "answer": "d"
+      },
+      {
+        "id": 3106,
+        "question": "The first symptom of Paget's carcinoma of the breast is:",
+        "options": ["bleeding", "superficial erosion", "ulceration", "itching/burning", "palpable mass"],
+        "answer": "b"
+      },
+      {
+        "id": 3107,
+        "question": "Abortion is defined as termination of gestation before the:",
+        "options": ["5th week of pregnancy", "10th week of pregnancy", "15th week of pregnancy", "20th week of pregnancy", "25th week of pregnancy"],
+        "answer": "c"
+      },
+      {
+        "id": 3108,
+        "question": "Pruritus is LEAST likely to be associated with:",
+        "options": ["acne vulgaris", "pregnancy", "hyperthyroidism", "carcinoid syndrome", "cholestasis"],
+        "answer": "e"
+      },
+      {
+        "id": 3109,
+        "question": "A swollen epididymis due to epididymitis is differentiated from testicular tumor initially by:",
+        "options": ["X ray", "ultrasound", "technetium scan", "testicular biopsy", "none of the above"],
+        "answer": "e"
+      },
+      {
+        "id": 3110,
+        "question": "Which of the following is contraindicated in treatment of digitalis induced tachyarrhythmia?",
+        "options": ["potassium chloride", "phenytoin", "propanolol", "quinidine", "synchronized DC shock"],
+        "answer": "e"
+      },
+      {
+        "id": 3111,
+        "question": "The first step in ophthalmoscopic examination is to look for:",
+        "options": ["cloudiness of the vitreous", "disorders of the iris", "abnormalities in the aqueous", "red fundus reflection", "lesions on cornea"],
+        "answer": "d"
+      },
+      {
+        "id": 3112,
+        "question": "In ovarian failure:",
+        "options": ["both FSH/LH are increased", "FSH is normal/LH is increased", "FSH is increased/LH is normal", "both FSH/LH are decreased", "none of the above"],
+        "answer": "b"
+      },
+      {
+        "id": 3113,
+        "question": "Primary prevention includes:",
+        "options": ["breast cancer screening", "INH prophylaxis of a positive tuberculin test", "genetic counseling", "Pap smear screening", "rehabilitation"],
+        "answer": "c"
+      },
+      {
+        "id": 3114,
+        "question": "Following are features of Kawasaki syndrome (mucocutaneous lymph node syndrome), EXCEPT:",
+        "options": ["generalized pruritus", "maculopapular red rash", "high fever", "peeling of the fingers", "angitis of coronary arteries"],
+        "answer": "a"
+      },
+      {
+        "id": 3115,
+        "question": "Following are associated with hyperprolactinemia, EXCEPT:",
+        "options": ["stress/sleep/depression", "hypothyroidism", "diabetes mellitus", "reserpine therapy", "nipple stimulation"],
+        "answer": "c"
+      },
+      {
+        "id": 3116,
+        "question": "The first step in the management of ruptured abdominal aortic aneurysm is:",
+        "options": ["laparoscopy", "blood cross match", "abdominal X ray", "electrocardiogram", "abdominal CT scan"],
+        "answer": "b"
+      },
+      {
+        "id": 3117,
+        "question": "Following are side effects of isoniazid (INH), EXCEPT:",
+        "options": ["central nervous system toxicity", "peripheral nervous system toxicity", "hepatotoxicity", "nephrotoxicity", "jaundice/skin rash"],
+        "answer": "e"
+      },
+      {
+        "id": 3118,
+        "question": "Fine downy growth of hair over the shoulder and back of a newborn is called:",
+        "options": ["lanugo", "capillary hemangioma", "petechiae", "vernix caseosa", "milia"],
+        "answer": "a"
+      },
+      {
+        "id": 3119,
+        "question": "Acute orchitis (increased testicular size/erythema /fever) in adolescents is usually due to:",
+        "options": ["leprosy", "schistosomiasis", "tuberculosis", "syphilis", "mumps"],
+        "answer": "e"
+      },
+      {
+        "id": 3120,
+        "question": "The most common cause of primary hyperparathyroidism (usually asymptomatic) is:",
+        "options": ["carcinoma of one parathyroid gland", "carcinoma of all parathyroid glands", "adenoma of one parathyroid gland", "adenoma of all parathyroid glands", "hyperplasia of all parathyroid glands"],
+        "answer": "d"
+      },
+      {
+        "id": 3121,
+        "question": "When verapamil IV (Isoptin) is not effective in paroxysmal supraventricular tachycardia, then:",
+        "options": ["intravenous adenosine", "intravenous amiodarone", "intravenous digoxin", "synchronized DC shock", "radiofrequency ablation"],
+        "answer": "a"
+      },
+      {
+        "id": 3122,
+        "question": "The most common congenital anomaly in the ureter is:",
+        "options": ["agenesis", "atresia", "ectopia", "stenosis", "ureterocoele"],
+        "answer": "e"
+      },
+      {
+        "id": 3123,
+        "question": "In X-linked dominant disorders:",
+        "options": [
+            "both sexes are affected equally",
+            "affected males have normal daughters but affected sons",
+            "the trait is more severe in daughters than sons",
+            "affected male transmits the trait only to his daughters",
+            "males are affected twice as often as females"
+        ],
+        "answer": "affected male transmits the trait only to his daughters"
+    },
+    {
+        "id": 3124,
+        "question": "When one fragment of the bone is driven into the other side of fractured bone, this is called:",
+        "options": [
+            "comminuted fracture",
+            "avulsion fracture",
+            "impacted fracture",
+            "compound fracture",
+            "depressed fracture"
+        ],
+        "answer": "impacted fracture"
+    },
+    {
+        "id": 3125,
+        "question": "70-year-old man presents with a solitary midlateral pulsatile neck mass, the most likely diagnosis is:",
+        "options": [
+            "Graves' disease",
+            "Hodgkin's disease",
+            "Pancoast syndrome",
+            "carotid body tumor",
+            "sarcoidosis"
+        ],
+        "answer": "carotid body tumor"
+    },
+    {
+        "id": 3126,
+        "question": "The best treatment for hypernephroma is:",
+        "options": [
+            "preoperative chemotherapy/radical nephrectomy",
+            "chemotherapy/radiotherapy",
+            "preoperative irradiation/radical nephrectomy",
+            "radical nephrectomy with chemotherapy",
+            "radical nephrectomy with regional node dissection"
+        ],
+        "answer": "preoperative chemotherapy/radical nephrectomy"
+    },
+    {
+        "id": 3127,
+        "question": "Following are disorders transmitted from human to human by sexual route, EXCEPT:",
+        "options": [
+            "hepatitis B",
+            "toxoplasmosis",
+            "codylomata lata",
+            "codylomata acuminata",
+            "molluscum contagiosum"
+        ],
+        "answer": "toxoplasmosis"
+    },
+    {
+        "id": 3128,
+        "question": "Following are features of seborrheic keratosis, EXCEPT:",
+        "options": [
+            "stuck on lesion",
+            "autosomal dominant trait",
+            "involvement of epidermis only",
+            "superficial ulceration",
+            "occurrence after 30 years of age"
+        ],
+        "answer": "superficial ulceration"
+    },
+    {
+        "id": 3129,
+        "question": "Following are features of mania, EXCEPT:",
+        "options": [
+            "excessive spending",
+            "aggressive behavior",
+            "hypoactivity",
+            "exhibitionistic behavior",
+            "reduction of sleep"
+        ],
+        "answer": "hypoactivity"
+    },
+    {
+        "id": 3130,
+        "question": "High calcium, high phosphorus, high or normal alkaline phosphatase and low parathyroid hormone are most likely seen in:",
+        "options": [
+            "osteoporosis",
+            "osteomalacia",
+            "hyperthyroidism",
+            "hyperparathyroidism",
+            "Paget's disease of the bone"
+        ],
+        "answer": "hyperparathyroidism"
+    },
+    {
+        "id": 3131,
+        "question": "Keratoacanthoma closely resembles squamous cell carcinoma and is characterized by:",
+        "options": [
+            "very slow growth lesion",
+            "very malignant lesion",
+            "response to antibiotic therapy",
+            "stuck on lesion",
+            "central crater filled with keratin"
+        ],
+        "answer": "central crater filled with keratin"
+    },
+    {
+        "id": 3132,
+        "question": "Which of the following medications is safely administered to pregnant women?",
+        "options": [
+            "isoniazid",
+            "streptomycin",
+            "metronidazole",
+            "tetracycline",
+            "cortisone"
+        ],
+        "answer": "cortisone"
+    },
+    {
+        "id": 3133,
+        "question": "The most common site of polyps of the colon is:",
+        "options": [
+            "ascending colon",
+            "descending colon",
+            "transverse colon",
+            "cecum/ileo cecal area",
+            "sigmoid/rectum"
+        ],
+        "answer": "sigmoid/rectum"
+    },
+    {
+        "id": 3134,
+        "question": "The most common breast mass or lesion in 35 to 40 years old women is:",
+        "options": [
+            "Paget's disease",
+            "mammary dysplasia (fibrocystic disease)",
+            "fibroadenoma",
+            "intraductal papilloma of the breast",
+            "breast cancer"
+        ],
+        "answer": "fibroadenoma"
+    },
+    {
+        "id": 3135,
+        "question": "Penicillin therapy in pregnant women with syphilis prevents congenital syphilis in:",
+        "options": [
+            "10% of cases",
+            "30% of cases",
+            "50% of cases",
+            "70% of cases",
+            "90% of cases"
+        ],
+        "answer": "90% of cases"
+    },
+    {
+        "id": 3136,
+        "question": "A positive Mantoux test means the patient:",
+        "options": [
+            "has silicosis and Pott's disease",
+            "not necessarily has tuberculosis",
+            "has disseminated (miliary) tuberculosis",
+            "is taking isoniazide for active tuberculosis",
+            "has tuberculosis complicated by Hodgkin's disease"
+        ],
+        "answer": "not necessarily has tuberculosis"
+    },
+    {
+        "id": 3137,
+        "question": "Which of the following was the cause of Black Death (a disease which killed 25 million Europeans 4 centuries ago)?",
+        "options": [
+            "brucella suis",
+            "campylobacter",
+            "yersinia pestis",
+            "proteus vulgaris",
+            "klebsiella pneumonia"
+        ],
+        "answer": "yersinia pestis"
+    },
+    {
+        "id": 3138,
+        "question": "Which of the following is transmitted mainly by human lice?",
+        "options": [
+            "brucellosis",
+            "listeriosis",
+            "psittacosis",
+            "leptospirosis",
+            "relapsing fever"
+        ],
+        "answer": "relapsing fever"
+    },
+    {
+        "id": 3139,
+        "question": "Weil's syndrome is also known as:",
+        "options": [
+            "acute brucellosis",
+            "ocular listeriosis",
+            "chronic psittacosis",
+            "chronic shigellosis",
+            "icteric leptospirosis"
+        ],
+        "answer": "icteric leptospirosis"
+    },
+    {
+        "id": 3140,
+        "question": "Lymphadenopathy, hepatosplenomegaly, and anemia are most likely due to:",
+        "options": [
+            "schistosoma",
+            "giardia lamblia",
+            "trypanosoma cruzi",
+            "entamoeba histolytica",
+            "visceral leishmaniasis"
+        ],
+        "answer": "visceral leishmaniasis"
+    },
+    {
+        "id": 3141,
+        "question": "Apical aneurysms of the heart, megaesophagus, and megacolon are associated with infections due to:",
+        "options": [
+            "schistosoma",
+            "giardia lamblia",
+            "trypanosoma cruzi",
+            "entamoeba histolytica",
+            "visceral leishmaniasis"
+        ],
+        "answer": "trypanosoma cruzi"
+    },
+    {
+        "id": 3142,
+        "question": "Which of the following is LEAST likely to be transmitted by sexual contact?",
+        "options": [
+            "schistosoma",
+            "giardia lamblia",
+            "trypanosoma cruzi",
+            "trichomonas vaginalis",
+            "entamoeba histolytica"
+        ],
+        "answer": "schistosoma"
+    },
+    {
+        "id": 3143,
+        "question": "Cellophane tape test is used in the diagnosis of:",
+        "options": [
+            "schistosoma",
+            "tinea saginata",
+            "toxicara canis",
+            "trichuris trichiura (whipworm)",
+            "enterbius vermicularis (pinworm)"
+        ],
+        "answer": "enterbius vermicularis (pinworm)"
+    },
+    {
+        "id": 3144,
+        "question": "Down's syndrome has been linked to:",
+        "options": [
+            "Still's disease",
+            "Refsum's disease",
+            "Briquet's disease",
+            "Hodgkin's disease",
+            "Alzheimer's disease"
+        ],
+        "answer": "Alzheimer's disease"
+    },
+    {
+        "id": 3145,
+        "question": "Part of chromosome 5 is missing in:",
+        "options": [
+            "Turner's syndrome",
+            "Cri-Du-Chat syndrome",
+            "Huntington's syndrome",
+            "Lesche Nyhan syndrome",
+            "Wegener's granulomatosis"
+        ],
+        "answer": "Cri-Du-Chat syndrome"
+    },
+    {
+        "id": 3146,
+        "question": "Abnormal vision with refractory errors is diagnosed by:",
+        "options": [
+            "tonometry",
+            "slit lamp",
+            "cover test",
+            "pinhole test",
+            "all of the above"
+        ],
+        "answer": "all of the above"
+    },
+    {
+        "id": 3147,
+        "question": "Oliver's sign (tracheal tug) is positive in:",
+        "options": [
+            "pericarditis",
+            "hiatal hernia",
+            "aortic aneurysm",
+            "esophageal reflux",
+            "carotid body tumor"
+        ],
+        "answer": "aortic aneurysm"
+    },
+    {
+        "id": 3148,
+        "question": "Palpable mass in the right abdomen with absence of bowel sounds in the RLQ (Dance's sign) is pathognomonic for:",
+        "options": [
+            "midgut volvulus",
+            "intussusception",
+            "congenital megacolon",
+            "mesenteric artery obstruction",
+            "hypertrophic pyloric stenosis"
+        ],
+        "answer": "hypertrophic pyloric stenosis"
+    },
+    {
+            "id": 3149,
+            "question": "32-year-old man presents with intermittent right lower quadrant pain and perirectal abscesses, the most likely diagnosis is:",
+            "options": [
+                "diverticulitis",
+                "Crohn's disease",
+                "acute appendicitis",
+                "ulcerative colitis",
+                "carcinoma of colon"
+            ],
+            "answer": "Crohn's disease"
+        },
+        {
+            "id": 3150,
+            "question": "In patients with fat embolism syndrome, petechiae are found in:",
+            "options": [
+                "5 to 10%",
+                "20 to 30%",
+                "30 to 40%",
+                "50 to 60%",
+                "80 to 90%"
+            ],
+            "answer": "80 to 90%"
+        },
+        {
+            "id": 3151,
+            "question": "HLA A3, B7, and B18 are associated with:",
+            "options": [
+                "Reiter's disease",
+                "myasthenia gravis",
+                "multiple sclerosis",
+                "chronic active hepatitis",
+                "gluten-sensitive enteropathy"
+            ],
+            "answer": "Reiter's disease"
+        },
+        {
+            "id": 3152,
+            "question": "Human leukocyte antigen B8 (HLA B8) is associated with:",
+            "options": [
+                "myasthenia gravis",
+                "dermatitis herpetiformis",
+                "gluten-sensitive enteropathy",
+                "chronic active hepatitis",
+                "all of the above"
+            ],
+            "answer": "all of the above"
+        },
+        {
+            "id": 3153,
+            "question": "Which of the following is increased in hypovolemic shock?",
+            "options": [
+                "urine flow",
+                "pulse rate",
+                "cardiac index",
+                "blood pressure",
+                "central venous pressure"
+            ],
+            "answer": "pulse rate"
+        },
+        {
+            "id": 3155,
+            "question": "The most likely diagnosis of respiratory distress after birth in full-term infants with heart sounds heard to the right chest is:",
+            "options": [
+                "pyloric stenosis",
+                "aspiration pneumonia",
+                "hyaline membrane disease",
+                "diaphragmatic hernia",
+                "esophageal atresia"
+            ],
+            "answer": "diaphragmatic hernia"
+        },
+        {
+            "id": 3156,
+            "question": "Hair-on-end appearance in the calvarium on skull X-ray is characteristically seen in:",
+            "options": [
+                "anencephaly",
+                "sarcoidosis",
+                "thalassemia",
+                "hydrocephalus",
+                "achondroplasia"
+            ],
+            "answer": "thalassemia"
+        },
+        {
+            "id": 3157,
+            "question": "The best blood group/type given to patients with unknown crossmatching is:",
+            "options": [
+                "O Rh+",
+                "O Rh-",
+                "A Rh+",
+                "B Rh-",
+                "AB Rh-"
+            ],
+            "answer": "O Rh-"
+        },
+        {
+            "id": 3158,
+            "question": "Varicella can develop after exposure to:",
+            "options": [
+                "mumps",
+                "measles",
+                "rubella",
+                "tetanus",
+                "shingles"
+            ],
+            "answer": "shingles"
+        },
+        {
+            "id": 3159,
+            "question": "Acute pericarditis is associated with all of the following, EXCEPT:",
+            "options": [
+                "severe chest pain",
+                "friction rub",
+                "ST segment elevations",
+                "nausea/vomiting",
+                "increased myocardial enzymes"
+            ],
+            "answer": "increased myocardial enzymes"
+        },
+        {
+            "id": 3160,
+            "question": "The most common type of lung cancer associated with heavy cigarette smoking in males is?",
+            "options": [
+                "metastatic",
+                "small cell",
+                "alveolar cell",
+                "adenocarcinoma/epidermoid",
+                "none of the above"
+            ],
+            "answer": "adenocarcinoma/epidermoid"
+        },
+        {
+            "id": 3161,
+            "question": "The most common cause of nongonococcal proctitis in homosexual men is:",
+            "options": [
+                "cytomegalovirus",
+                "staphylococcus aureus",
+                "herpes simplex virus",
+                "chlamydia trachomatis",
+                "pseudomonas aeruginosa"
+            ],
+            "answer": "chlamydia trachomatis"
+        },
+        {
+            "id": 3162,
+            "question": "Telescoping of a segment of bowel into the adjacent segment showing (E) sign on X-ray is seen in:",
+            "options": [
+                "Meckel's diverticulum",
+                "congenital megacolon",
+                "hypertrophic pyloric stenosis",
+                "congenital duodenal atresia",
+                "intussusception"
+            ],
+            "answer": "intussusception"
+        },
+        {
+            "id": 3163,
+            "question": "Surgical treatment of tetralogy of Fallot is intended to increase the blood flow in the:",
+            "options": [
+                "aorta",
+                "right ventricle",
+                "pulmonary artery",
+                "subclavian artery",
+                "superior vena cava"
+            ],
+            "answer": "pulmonary artery"
+        },
+        {
+            "id": 3164,
+            "question": "Carcinoma of the esophagus/cervix most commonly are:",
+            "options": [
+                "adenocarcinoma",
+                "squamous cell carcinoma",
+                "transitional cell carcinoma",
+                "metastatic carcinoma",
+                "none of the above"
+            ],
+            "answer": "squamous cell carcinoma"
+        },
+        {
+            "id": 3165,
+            "question": "The drug of choice for the treatment of amebic liver abscess is:",
+            "options": [
+                "tetracycline",
+                "streptomycin",
+                "chloramphenicol",
+                "erythromycin",
+                "metronidazole"
+            ],
+            "answer": "metronidazole"
+        },
+        {
+            "id": 3166,
+            "question": "Osler nodes, Janeway lesions and Roth spots are seen in:",
+            "options": [
+                "infective endocarditis",
+                "chronic pancreatitis",
+                "ulcerative colitis",
+                "viral hepatitis",
+                "toxic shock syndrome"
+            ],
+            "answer": "infective endocarditis"
+        },
+        {
+            "id": 3167,
+            "question": "A mid or late diastolic low pitched mitral murmur (Austin Flint murmur) can be heard in:",
+            "options": [
+                "mitral stenosis",
+                "ventricular septal defect",
+                "severe aortic regurgitation",
+                "mitral regurgitation",
+                "tricuspid regurgitation"
+            ],
+            "answer": "severe aortic regurgitation"
+        },
+        {
+            "id": 3168,
+            "question": "Which of the following is LEAST likely to be seen in rheumatic fever?",
+            "options": [
+                "skin rash",
+                "arthritis",
+                "pericarditis",
+                "joint deformities",
+                "increased antistreptolysin titer"
+            ],
+            "answer": "increased antistreptolysin titer"
+        },
+        {
+            "id": 3169,
+            "question": "Pleural effusion can be detected on anteroposterior chest X-ray when pleural fluid is:",
+            "options": [
+                "10 mL",
+                "20 mL",
+                "100 mL",
+                "150 mL",
+                "250 mL"
+            ],
+            "answer": "250 mL"
+        },
+        {
+            "id": 3170,
+            "question": "Which of the following is LEAST likely to be associated with lung cancer?",
+            "options": [
+                "arsenic",
+                "nickel",
+                "asbestos",
+                "silicon dioxide",
+                "petroleum"
+            ],
+            "answer": "nickel"
+        },
+        {
+            "id": 3171,
+            "question": "Chronic inhalation of cotton or linen dust is associated with:",
+            "options": [
+                "berylliosis",
+                "bagassosis",
+                "byssinosis",
+                "sequoiosis",
+                "suberosis"
+            ],
+            "answer": "byssinosis"
+        },
+        {
+            "id": 3172,
+            "question": "Eggshell calcifications on chest X-ray is seen in:",
+            "options": [
+                "asbestosis",
+                "pneumoconioses",
+                "radiation pneumonitis",
+                "bronchial asthma",
+                "silicosis"
+            ],
+            "answer": "pneumoconioses"
+        },
+        {
+            "id": 3173,
+            "question": "The most common abdominal mass found in the neonatal period after the first week of life is:",
+            "options": [
+                "neuroblastoma",
+                "splenomegaly",
+                "hydronephrosis",
+                "Wilm's tumor",
+                "intestinal tumor"
+            ],
+            "answer": "hydronephrosis"
+        },
+        {
+            "id": 3174,
+            "question": "Which of the following tests is LEAST helpful in diagnosis of pulmonary hypertension?",
+            "options": [
+                "pulmonary function tests",
+                "perfusion lung scan",
+                "echocardiogram",
+                "pulmonary angiography",
+                "chest X-ray"
+            ],
+            "answer": "chest X-ray"
+        },
+        {
+            "id": 3176,
+            "question": "The average life expectancy for patients with cystic fibrosis is:",
+            "options": [
+                "10 years",
+                "20 years",
+                "30 years",
+                "40 years",
+                "50 years"
+            ],
+            "answer": "30 years"
+        },
+        {
+            "id": 3177,
+            "question": "Which of the following medications worsens bronchospasm and is contraindicated in patients with COPD or bronchial asthma?",
+            "options": [
+                "prednisone",
+                "atropine sulphate",
+                "aminophylline",
+                "propanolol",
+                "cromolyn sodium"
+            ],
+            "answer": "propanolol"
+        },
+        {
+            "id": 3178,
+            "question": "Clubbing of the digits is LEAST likely to be caused by:",
+            "options": [
+                "bronchial asthma",
+                "infective endocarditis",
+                "idiopathic pulmonary fibrosis",
+                "cyanotic congenital heart disease",
+                "pulmonary arteriovenous malformation"
+            ],
+            "answer": "pulmonary arteriovenous malformation"
+        },
+        {
+            "id": 3179,
+            "question": "The most common cause of congenital stridor is:",
+            "options": [
+                "laryngeal webs",
+                "vocal cord paralysis",
+                "laryngomalacia",
+                "subglottic stenosis",
+                "subglottic hemangioma"
+            ],
+            "answer": "laryngomalacia"
+        },
+        {
+            "id": 3180,
+            "question": "The leading cause of death from skin disease is:",
+            "options": [
+                "Bown's disease",
+                "squamous cell carcinoma",
+                "basal cell carcinoma",
+                "malignant melanoma",
+                "keratoacanthoma"
+            ],
+            "answer": "malignant melanoma"
+        },
+        {
+            "id": 3181,
+            "question": "Which of the following dermatologic disorder is more common in fishermen/meat handlers:",
+            "options": [
+                "erysipelas",
+                "erythrasma",
+                "erysipeloid",
+                "pemphigus",
+                "pityriasis rosea"
+            ],
+            "answer": "erysipeloid"
+        },
+        {
+            "id": 3182,
+            "question": "The causative organism in erysipelas (Saint Anthony's fire) is:",
+            "options": [
+                "clostridium",
+                "staphylococcus aureus",
+                "escherichia coli",
+                "streptococcus pyogenes group B",
+                "virus"
+            ],
+            "answer": "streptococcus pyogenes group B"
+        },
+        {
+            "id": 3183,
+            "question": "The causative organism in furunculosis is:",
+            "options": [
+                "klebsiella",
+                "staphylococcus aureus",
+                "escherichia coli",
+                "clostridium",
+                "bacterioides"
+            ],
+            "answer": "staphylococcus aureus"
+        },
+        {
+            "id": 3184,
+            "question": "Which of the following is contraindicated in treatment of chronic discoid lupus erythematosus?",
+            "options": [
+                "dapsone",
+                "corticosteroids",
+                "radiotherapy",
+                "chloroquine",
+                "quinacrine"
+            ],
+            "answer": "quinacrine"
+        },
+        {
+            "id": 3185,
+            "question": "The most common skin disorder is:",
+            "options": [
+                "dermatitis herpetiformis",
+                "seborrheic dermatitis",
+                "erythema multiforme",
+                "acne vulgaris",
+                "pityriasis rosea"
+            ],
+            "answer": "acne vulgaris"
+        },
+        {
+            "id": 3186,
+            "question": "Skin (Herald patch)/(Christmas tree) configurations are seen in:",
+            "options": [
+                "dermatitis herpetiformis",
+                "seborrheic dermatitis",
+                "erythema multiforme",
+                "pemphigus",
+                "pityriasis rosea"
+            ],
+            "answer": "pityriasis rosea"
+        },
+        {
+            "id": 3187,
+            "question": "Acantholysis is a hallmark of:",
+            "options": [
+                "dermatitis herpetiformis",
+                "psoriasis",
+                "erythema multiforme",
+                "pemphigus vulgaris",
+                "bullous pemphigoid"
+            ],
+            "answer": "pemphigus vulgaris"
+        },
+        {
+            "id": 3188,
+            "question": "Toxic epidermal necrolysis and Steven Johnson syndrome (erythema multiforme major) are most commonly produced by:",
+            "options": [
+                "amoxicillin",
+                "ampicillin",
+                "penicillin",
+                "sulfonamides",
+                "trimethoprim sulphamethoxazole"
+            ],
+            "answer": "sulfonamides"
+        },
+        {
+            "id": 3189,
+            "question": "Generalized pruritus in patients on hemodialysis is usually due to:",
+            "options": [
+                "scabies",
+                "uremia",
+                "atopic dermatitis",
+                "psoriasis",
+                "lichen planus"
+            ],
+            "answer": "uremia"
+        },
+        {
+            "id": 3190,
+            "question": "Following are associated with carcinoid syndrome, EXCEPT:",
+            "options": [
+                "tricuspid regurgitation/pulmonic stenosis",
+                "abdominal cramps/diarrhea",
+                "mitral stenosis or regurgitation",
+                "increased urinary 5 HIAA",
+                "edema of head/neck"
+            ],
+            "answer": "mitral stenosis or regurgitation"
+        },
+        {
+            "id": 3191,
+            "question": "The initial treatment of back pain due to spinal cord compression by tumor mass is:",
+            "options": [
+                "surgical excision",
+                "chemotherapy",
+                "radiotherapy",
+                "corticosteroids",
+                "none of the above"
+            ],
+            "answer": "corticosteroids"
+        },
+        {
+            "id": 3193,
+            "question": "The most common cause of bilateral vocal cord paralysis is:",
+            "options": [
+                "brain stem lesion",
+                "supranuclear lesion",
+                "thyroidectomy",
+                "cortical lesion",
+                "congenital central lesion"
+            ],
+            "answer": "thyroidectomy"
+        },
+        {
+            "id": 3194,
+            "question": "Which of the following dermatologic disorders may associate with lesions of the oral cavity?",
+            "options": [
+                "lichen planus",
+                "keratoacanthoma",
+                "tinea versicolor",
+                "erythrasma",
+                "erysipeloid"
+            ],
+            "answer": "lichen planus"
+        },
+        {
+            "id": 3195,
+            "question": "The most common cause of facial (peripheral seventh nerve) paralysis is:",
+            "options": [
+                "acoustic neuroma",
+                "Guillain Barre syndrome",
+                "surgical trauma",
+                "Bell's palsy",
+                "temporal bone fracture (trauma)"
+            ],
+            "answer": "Bell's palsy"
+        },
+        {
+            "id": 3196,
+            "question": "The most common cause of tinnitus (sensation of noise in the ear) is:",
+            "options": [
+                "ototoxicity",
+                "presbycusis",
+                "acoustic neuroma",
+                "congenital aneurysms",
+                "temporal bone fracture"
+            ],
+            "answer": "presbycusis"
+        },
+        {
+            "id": 3197,
+            "question": "In sensorineural deafness, air conduction threshold and bone conduction threshold are:",
+            "options": [
+                "unequally increased",
+                "equally increased",
+                "unequally decreased",
+                "equally decreased",
+                "none of the above"
+            ],
+            "answer": "equally increased"
+        },
+        {
+            "id": 3198,
+            "question": "Deafness in patients with otosclerosis usually starts:",
+            "options": [
+                "at birth",
+                "in the first decade of life",
+                "in the second-third decade of life",
+                "in the third-fourth decade of life",
+                "after the fifth decade of life"
+            ],
+            "answer": "in the second-third decade of life"
+        },
+        {
+            "id": 3199,
+            "question": "Surgical therapy instead of medical therapy of epilepsy is required in:",
+            "options": [
+                "1%",
+                "5%",
+                "15 to 20%",
+                "25 to 40%",
+                "50%"
+            ],
+            "answer": "15 to 20%"
+        },
+        {
+            "id": 3200,
+            "question": "The best diagnostic test for spinal cord tumor is:",
+            "options": [
+                "CT scan",
+                "electromyography",
+                "plain film",
+                "MRI",
+                "X ray"
+            ],
+            "answer": "MRI"
+        }
+      
+    ]
+  }
+  
