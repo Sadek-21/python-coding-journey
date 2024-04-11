@@ -51,8 +51,7 @@ def load_questions(file_path):
 
 def main():
     # Get the current directory of the script
-    current_dir = os.path.dirname(os.path.abspath(__file__))
-    file_path = os.path.join(current_dir, 'questions.json')
+    file_path = './questions.json'
     questions = load_questions(file_path)
     random.shuffle(questions)
     
