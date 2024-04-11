@@ -3,6 +3,7 @@ from tkinter import messagebox
 import json
 import random
 import os
+import sys
 
 class QuizApp:
     def __init__(self, master, questions):
@@ -50,8 +51,11 @@ def load_questions(file_path):
     return data['questions']
 
 def main():
-    # Get the current directory of the script
-    current_dir = os.path.dirname(os.path.abspath(__file__))
+    # Adjust the path when running the bundled executable
+    if getattr(sys, 'frozen', False):
+        application_path = sys._MEIPASS
+    else:
+        application_path = os.path.dirname(os.path.abspath(__file__))
     file_path = os.path.join(current_dir, 'questions.json')
     questions = load_questions(file_path)
     random.shuffle(questions)
