@@ -50,6 +50,18 @@ def load_questions(file_path):
         data = json.load(file)
     return data['questions']
 
+def select_option(self, option_index):
+    question = self.questions[self.current_question_index]
+    selected_option = chr(97 + option_index)  # Converts option_index to a letter starting from 'a'
+    if selected_option == question['answer']:
+        messagebox.showinfo("Result", "Correct!")
+    else:
+        messagebox.showinfo("Result", f"Incorrect. The correct answer is: {question['answer']}")
+    
+    self.current_question_index += 1
+    self.load_question()
+
+
 def main():
     # Adjust the path when running the bundled executable
     if getattr(sys, 'frozen', False):
