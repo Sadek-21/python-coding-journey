@@ -5,7 +5,7 @@ a = Analysis(
     ['quiz.py'],
     pathex=[],
     binaries=[],
-    datas=[],
+    datas=[('questions.json', '.')],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},
