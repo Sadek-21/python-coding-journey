@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/mohsa/AppData/Local/Temp/e9a33e87-a06e-4b7d-9c36-9c068ccdf646_0x1A-hash_tables-20240411T123318Z-001.zip.646/0x1A-hash_tables/tests",
+      "program": "c:/Users/mohsa/AppData/Local/Temp/e9a33e87-a06e-4b7d-9c36-9c068ccdf646_0x1A-hash_tables-20240411T123318Z-001.zip.646/0x1A-hash_tables/tests/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,11 +1,69 @@
 {
     "questions": [
         {
-          "id": 1,
-          "question": "Retrolental fibroplasia is a complication of:",
-          "options": ["chemotherapy", "hydrotherapy", "radiotherapy", "physiotherapy", "oxygen therapy"],
-          "answer": "chemotherapy",
-          "answer_index": 0
-       }
+            "id": 3001,
+            "question": "Retrolental fibroplasia is a complication of:",
+            "options": [
+                "chemotherapy",
+                "hydrotherapy",
+                "radiotherapy",
+                "physiotherapy",
+                "oxygen therapy"
+            ],
+            "answer": "e",
+            "answer_index": 4
+        },
+        {
+            "id": 3002,
+            "question": "Cardioversion may be indicated in the treatment of:",
+            "options": [
+                "complete AV block",
+                "digitalis toxicity",
+                "atrial fibrillation",
+                "multifocal atrial tachycardia",
+                "repeated short lived tachycardias"
+            ],
+            "answer": "c",
+            "answer_index": 2
+        },
+        {
+            "id": 3003,
+            "question": "Parkinsonian side effects of phenothiazine are best treated with:",
+            "options": [
+                "haloperidol",
+                "lorazepam (Ativan)",
+                "chlordiazepoxide",
+                "benztropine mesylate",
+                "lithium carbonate"
+            ],
+            "answer": "d",
+            "answer_index": 3
+        },
+        {
+            "id": 3004,
+            "question": "The etiologic agent in molluscum contagiosum (painless/small/firm/umbilicated/white surface papules) is:",
+            "options": [
+                "RNA virus",
+                "DNA virus (poxvirus)",
+                "chlamydia trachomatis",
+                "staphylococcus aureus",
+                "papilloma virus"
+            ],
+            "answer": "b",
+            "answer_index": 1
+        },
+        {
+            "id": 3005,
+            "question": " ",
+            "options": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "answer": "",
+            "answer_index": 
+        }
     ]
  }
