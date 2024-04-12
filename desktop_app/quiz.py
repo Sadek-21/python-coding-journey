@@ -17,7 +17,7 @@ class QuizApp:
         self.question_label.pack(pady=10)
         
         self.option_buttons = []
-        for i in range(5):
+        for i in range(len(self.questions[0]['options'])):  # Ensures correct number of options
             button = tk.Button(self.master, text="", width=30, command=lambda idx=i: self.select_option(idx))
             button.pack(pady=5)
             self.option_buttons.append(button)
@@ -33,37 +33,27 @@ class QuizApp:
         else:
             messagebox.showinfo("Quiz Finished", "You have completed the quiz!")
             self.master.destroy()
-    
+
     def select_option(self, option_index):
         question = self.questions[self.current_question_index]
-        selected_option = chr(97 + option_index)
-        if selected_option == question['answer']:
+        if option_index == question['answer_index']:
             messagebox.showinfo("Result", "Correct!")
         else:
-            messagebox.showinfo("Result", f"Incorrect. The correct answer is: {question['answer']}")
+            correct_option = question['options'][question['answer_index']]
+            messagebox.showinfo("Result", f"Incorrect. The correct answer is: {correct_option}")
         
         self.current_question_index += 1
-        self.load_question()
+        if self.current_question_index < len(self.questions):
+            self.load_question()
+        else:
+            self.master.destroy()
 
 def load_questions(file_path):
     with open(file_path, 'r') as file:
         data = json.load(file)
     return data['questions']
 
-def select_option(self, option_index):
-    question = self.questions[self.current_question_index]
-    selected_option = chr(97 + option_index)  # Converts option_index to a letter starting from 'a'
-    if selected_option == question['answer']:
-        messagebox.showinfo("Result", "Correct!")
-    else:
-        messagebox.showinfo("Result", f"Incorrect. The correct answer is: {question['answer']}")
-    
-    self.current_question_index += 1
-    self.load_question()
-
-
 def main():
-    # Adjust the path when running the bundled executable
     if getattr(sys, 'frozen', False):
         application_path = sys._MEIPASS
     else:
@@ -76,7 +66,6 @@ def main():
     root = tk.Tk()
     app = QuizApp(root, questions)
     root.mainloop()
-
 
 if __name__ == "__main__":
     main()
