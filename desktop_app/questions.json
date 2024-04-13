@@ -2733,324 +2733,1395 @@
         {
             "id": 3201,
             "question": "The most frequent indication for lumbar puncture is suspected:",
-            "options": [
-                "meningitis",
-                "ruptured Berry aneurysm",
-                "subarachnoid hemorrhage",
-                "head injury",
-                "brain tumor"
-            ],
-            "answer": "a",
+            "options": ["meningitis", "ruptured Berry aneurysm", "subarachnoid hemorrhage", "head injury", "brain tumor"],
+            "answer": "meningitis",
             "answer_index": 0
-        },
-        {
+          },
+          {
             "id": 3202,
             "question": "The most common cause of acquired arteriovenous fistula is:",
-            "options": [
-                "infection",
-                "blunt trauma",
-                "penetrating injury",
-                "neoplastic invasion",
-                "connective tissue disorder"
-            ],
-            "answer": "c",
+            "options": ["infection", "blunt trauma", "penetrating injury", "neoplastic invasion", "connective tissue disorder"],
+            "answer": "penetrating injury",
             "answer_index": 2
-        },
-        {
+          },
+          {
             "id": 3203,
             "question": "Arterial occlusion is differentiated from arterial vasoconstriction by:",
-            "options": [
-                "Brodie Trendelenburg test",
-                "Allen test",
-                "Schwartz test",
-                "Adson's test",
-                "Tinel's test"
-            ],
-            "answer": "a",
-            "answer_index": 0
-        },
-        {
+            "options": ["Brodie Trendelenburg test", "Allen test", "Schwartz test", "Adson's test", "Tinel's test"],
+            "answer": "Allen test",
+            "answer_index": 1
+          },
+          {
             "id": 3204,
             "question": "Malabsorption of bile salts and vitamin B12 (cobalamin) typically occur after:",
-            "options": [
-                "total colectomy",
-                "jejunal resection",
-                "hemorrhoidectomy",
-                "ileal resection",
-                "splenectomy"
-            ],
-            "answer": "d",
+            "options": ["total colectomy", "jejunal resection", "hemorrhoidectomy", "ileal resection", "splenectomy"],
+            "answer": "ileal resection",
             "answer_index": 3
-        },
-        {
+          },
+          {
             "id": 3205,
             "question": "The most common site of volvulus (twisting of bowel around mesenteric root) is:",
-            "options": [
-                "splenic flexure",
-                "cecum",
-                "transverse colon",
-                "sigmoid colon/gastric",
-                "ascending colon"
-            ],
-            "answer": "d",
+            "options": ["splenic flexure", "cecum", "transverse colon", "sigmoid colon/gastric", "ascending colon"],
+            "answer": "sigmoid colon/gastric",
             "answer_index": 3
-        },
-        {
+          },
+          {
             "id": 3206,
             "question": "The most common cause of spleen rupture is:",
-            "options": [
-                "typhoid fever/malaria",
-                "pregnancy",
-                "infectious mononucleosis",
-                "blunt abdominal trauma",
-                "leukemia/lymphoma"
-            ],
-            "answer": "d",
+            "options": ["typhoid fever/malaria", "pregnancy", "infectious mononucleosis", "blunt abdominal trauma", "leukemia/lymphoma"],
+            "answer": "blunt abdominal trauma",
             "answer_index": 3
-        },
-        {
+          },
+          {
             "id": 3207,
             "question": "Puestow/Du Val procedures are used in surgical treatment of:",
-            "options": [
-                "splenic rupture",
-                "chronic pancreatitis",
-                "inguinal hernia",
-                "reflux esophagitis",
-                "carcinoma of the colon"
-            ],
-            "answer": "b",
+            "options": ["splenic rupture", "chronic pancreatitis", "inguinal hernia", "reflux esophagitis", "carcinoma of the colon"],
+            "answer": "chronic pancreatitis",
             "answer_index": 1
-        },
-        {
+          },
+          {
             "id": 3208,
             "question": "The most common presenting complaint in patients with carcinoma of the gallbladder is:",
-            "options": [
-                "weight loss",
-                "painless jaundice",
-                "palpable mass",
-                "constipation",
-                "intermittent right upper quadrant pain"
-            ],
-            "answer": "b",
-            "answer_index": 1
-        },
-        {
+            "options": ["weight loss", "painless jaundice", "palpable mass", "constipation", "intermittent right upper quadrant pain"],
+            "answer": "intermittent right upper quadrant pain",
+            "answer_index": 4
+          },
+          {
             "id": 3209,
             "question": "Following are major complications of acute cholecystitis, EXCEPT:",
-            "options": [
-                "perforation",
-                "bleeding",
-                "abscess",
-                "fistula",
-                "empyema"
-            ],
-            "answer": "b",
+            "options": ["perforation", "bleeding", "abscess", "fistula", "empyema"],
+            "answer": "bleeding",
             "answer_index": 1
-        },
-        {
+          },
+          {
             "id": 3210,
             "question": "The most common symptom of gastric carcinoma is:",
-            "options": [
-                "melena",
-                "epigastric mass",
-                "dysphagia",
-                "weight loss",
-                "hepatomegaly"
-            ],
-            "answer": "d",
+            "options": ["melena", "epigastric mass", "dysphagia", "weight loss", "hepatomegaly"],
+            "answer": "weight loss",
             "answer_index": 3
-        },
-        {
+          },
+          {
             "id": 3211,
             "question": "The most common cause of emphysematous cholecystitis is:",
-            "options": [
-                "gram positive bacilli",
-                "aerobic bacilli",
-                "clostridial infections",
-                "enterobacterial infections",
-                "bacterioides"
-            ],
-            "answer": "c",
+            "options": ["gram positive bacilli", "aerobic bacilli", "clostridial infections", "enterobacterial infections", "bacteroides"],
+            "answer": "clostridial infections",
             "answer_index": 2
-        },
-        {
+          },
+          {
             "id": 3212,
             "question": "The most common site of intraperitoneal abscess is:",
-            "options": [
-                "subdiaphragmatic",
-                "pelvic",
-                "lower quadrants",
-                "subhepatic",
-                "paracolics"
-            ],
-            "answer": "a",
-            "answer_index": 0
-        },
-        {
+            "options": ["subdiaphragmatic", "pelvic", "lower quadrants", "subhepatic", "paracolics"],
+            "answer": "lower quadrants",
+            "answer_index": 2
+          },
+          {
             "id": 3213,
             "question": "Perforated duodenal ulcer causes mid epigastric pain which is usually radiated to the:",
-            "options": [
-                "back",
-                "shoulders",
-                "right upper quadrant",
-                "left lower quadrant",
-                "right lower quadrant"
-            ],
-            "answer": "a",
-            "answer_index": 0
-        },
-        {
+            "options": ["back", "shoulders", "right upper quadrant", "left lower quadrant", "right lower quadrant"],
+            "answer": "right lower quadrant",
+            "answer_index": 4
+          },
+          {
             "id": 3214,
             "question": "Following are risk factors for carcinoma of esophagus, EXCEPT:",
-            "options": [
-                "reflux esophagitis",
-                "esophageal diverticula",
-                "chronic iron deficiency",
-                "congenital esophageal tylosis",
-                "carcinoma of the head/neck"
-            ],
-            "answer": "c",
-            "answer_index": 2
-        },
-        {
+            "options": ["reflux esophagitis", "esophageal diverticula", "chronic iron deficiency", "congenital esophageal tylosis", "carcinoma of the head/neck"],
+            "answer": "esophageal diverticula",
+            "answer_index": 1
+          },
+          {
             "id": 3215,
             "question": "Nissen fundoplication is the most effective surgical procedure in treatment of:",
-            "options": [
-                "achalasia",
-                "reflux esophagitis",
-                "hiatal hernia",
-                "esophageal diverticula",
-                "esophageal cancer"
-            ],
-            "answer": "b",
+            "options": ["achalasia", "reflux esophagitis", "hiatal hernia", "esophageal diverticula", "esophageal cancer"],
+            "answer": "reflux esophagitis",
             "answer_index": 1
-        },
-        {
+          },
+          {
             "id": 3216,
             "question": "The most common heart tumor is:",
-            "options": [
-                "myxoma",
-                "fibroma",
-                "lipoma",
-                "teratoma",
-                "sarcoma"
-            ],
-            "answer": "a",
+            "options": ["myxoma", "fibroma", "lipoma", "teratoma", "sarcoma"],
+            "answer": "myxoma",
             "answer_index": 0
-        },
-        {
+          },
+          {
             "id": 3217,
             "question": "The most common cause of pericarditis is:",
-            "options": [
-                "bacterial contamination",
-                "acute myocardial infarction",
-                "tuberculosis",
-                "rheumatic fever",
-                "unknown (idiopathic)"
-            ],
-            "answer": "e",
+            "options": ["bacterial contamination", "acute myocardial infarction", "tuberculosis", "rheumatic fever", "unknown (idiopathic)"],
+            "answer": "unknown (idiopathic)",
             "answer_index": 4
-        },
-        {
+          },
+          {
             "id": 3218,
             "question": "Following are associated with sarcoidosis, EXCEPT:",
-            "options": [
-                "positive Kveim test",
-                "hypercalciuria",
-                "hypocalcemia",
-                "erythema nodosum",
-                "leukopenia"
-            ],
-            "answer": "c",
+            "options": ["positive Kveim test", "hypercalciuria", "hypocalcemia", "erythema nodosum", "leukopenia"],
+            "answer": "hypocalcemia",
             "answer_index": 2
-        },
-        {
+          },
+          {
             "id": 3219,
             "question": "Spontaneous pneumothorax is most common in:",
-            "options": [
-                "infants",
-                "males 50 to 70 years of age",
-                "females 15 to 35 years of age",
-                "males 15 to 35 years of age",
-                "females after menopause"
-            ],
-            "answer": "d",
+            "options": ["infants", "males 50 to 70 years of age", "females 15 to 35 years of age", "males 15 to 35 years of age", "females after menopause"],
+            "answer": "males 15 to 35 years of age",
             "answer_index": 3
-        },
-        {
+          },
+          {
             "id": 3220,
             "question": "Tietze's syndrome is a painful nonsuppurative inflammation of the:",
-            "options": [
-                "pleura",
-                "lung",
-                "intercostal muscle",
-                "mediastinum",
-                "costochondral cartilage"
-            ],
-            "answer": "e",
+            "options": ["pleura", "lung", "intercostal muscle", "mediastinum", "costochondral cartilage"],
+            "answer": "costochondral cartilage",
             "answer_index": 4
-        },
-        {
+            },
+            {
             "id": 3221,
             "question": "The most common type of thyroiditis is:",
-            "options": [
-                "Riedel's thyroiditis (struma)",
-                "acute suppurative thyroiditis",
-                "subacute granulomatous (DeQuervain's) thyroiditis",
-                "Hashimoto's thyroiditis",
-                "none of the above"
-            ],
-            "answer": "d",
+            "options": ["Riedel's thyroiditis (struma)", "acute suppurative thyroiditis", "subacute granulomatous (DeQuervain's) thyroiditis", "Hashimoto's thyroiditis", "none of the above"],
+            "answer": "Hashimoto's thyroiditis",
             "answer_index": 3
-        },
-        {
+            },
+            {
             "id": 3222,
             "question": "The most common presentation of thyrotoxicosis is:",
-            "options": [
-                "diarrhea",
-                "atrial fibrillation",
-                "tachycardia",
-                "weakness",
-                "constipation"
-            ],
-            "answer": "c",
+            "options": ["diarrhea", "atrial fibrillation", "tachycardia", "weakness", "constipation"],
+            "answer": "tachycardia",
             "answer_index": 2
-        },
-        {
+            },
+            {
             "id": 3223,
             "question": "The most common malignant tumor of the parotid gland is:",
-            "options": [
-                "adenoid cystic carcinoma",
-                "clear cell carcinoma",
-                "mucoepidermoid carcinoma",
-                "adenocarcinoma",
-                "squamous cell carcinoma"
-            ],
-            "answer": "c",
+            "options": ["adenoid cystic carcinoma", "clear cell carcinoma", "mucoepidermoid carcinoma", "adenocarcinoma", "squamous cell carcinoma"],
+            "answer": "mucoepidermoid carcinoma",
             "answer_index": 2
-        },
-        {
+            },
+            {
             "id": 3224,
             "question": "The most common tumor of the nasal cavity is:",
-            "options": [
-                "melanoma",
-                "sarcoma",
-                "adenocarcinoma",
-                "esthesioneuroblastoma",
-                "squamous cell carcinoma"
-            ],
-            "answer": "e",
+            "options": ["melanoma", "sarcoma", "adenocarcinoma", "esthesioneuroblastoma", "squamous cell carcinoma"],
+            "answer": "squamous cell carcinoma",
             "answer_index": 4
-        },
-
-
-
-
-
-
-
-
-
+            },
+            {
+            "id": 3225,
+            "question": "Pyomyositis (acute pyogenic infection of muscles) is usually due to:",
+            "options": ["klebsiella", "staphylococcus aureus", "escherichia coli", "clostriduim", "bacteroides"],
+            "answer": "staphylococcus aureus",
+            "answer_index": 1
+            },
+            {
+            "id": 3226,
+            "question": "The most common pathogen in surgical wound infection is:",
+            "options": ["klebsiella", "staphylococcus aureus", "haemophilus influenzae", "clostriduim", "bacteroides"],
+            "answer": "staphylococcus aureus",
+            "answer_index": 1
+            },
+            {
+            "id": 3227,
+            "question": "The most common cardiac disease is:",
+            "options": ["valvular heart disease", "congenital heart disease", "coronary artery disease", "congestive heart failure", "cardiac tumor"],
+            "answer": "coronary artery disease",
+            "answer_index": 2
+            },
+            {
+            "id": 3228,
+            "question": "The most common pulmonary complication in patients who have abdominal surgery is:",
+            "options": ["pulmonary embolism", "pneumothorax/pleural effusion", "pulmonary aspiration", "postoperative pneumonia", "atelectasis"],
+            "answer": "atelectasis",
+            "answer_index": 4
+            },
+            {
+            "id": 3229,
+            "question": "The most common pulmonary complication among patients who die after surgery is:",
+            "options": ["pulmonary embolism", "pneumothorax/pleural effusion", "pulmonary aspiration", "postoperative pneumonia", "atelectasis"],
+            "answer": "postoperative pneumonia",
+            "answer_index": 3
+            },
+            {
+            "id": 3230,
+            "question": "Which of the following is LEAST likely to be a complication of ileostomy?",
+            "options": ["gallstones", "kidney stones", "paraileostomy abscess", "malignant transformation", "diarrhea"],
+            "answer": "malignant transformation",
+            "answer_index": 3
+            },
+            {
+               "id": 3231,
+               "question": "The main complaint in patients with Guillain Barre syndrome (ascending paralysis or acute polyneuropathy) is:",
+               "options": ["dyspnea", "weakness", "tachycardia", "abnormalities of sweating", "impaired sphincter control"],
+               "answer": "weakness",
+               "answer_index": 1
+             },
+             {
+               "id": 3232,
+               "question": "Asymptomatic gynecomastia in a 13 year old boy is best managed by:",
+               "options": ["mammography", "surgical excision", "reassurance", "chest X ray", "excisional biopsy"],
+               "answer": "reassurance",
+               "answer_index": 2
+             },
+             {
+               "id": 3233,
+               "question": "Diagnosis of paroxysmal nocturnal hemoglobinuria is confirmed by:",
+               "options": ["indirect antiglobulin test", "Schilling test", "specific enzyme test", "Ham's (acidified serum) test", "Coomb's test"],
+               "answer": "Ham's (acidified serum) test",
+               "answer_index": 3
+             },
+             {
+               "id": 3234,
+               "question": "Adult polycystic kidney disease is usually discovered:",
+               "options": ["at birth", "in the first decade of life", "in the second or third decade of life", "in the fourth or fifth decade of life", "after the sixth decade of life"],
+               "answer": "in the fourth or fifth decade of life",
+               "answer_index": 3
+             },
+             {
+               "id": 3235,
+               "question": "The most common presentation of mumps is:",
+               "options": ["high fever", "abdominal pain", "nausea/vomiting", "scrotal swelling", "parotid swelling"],
+               "answer": "parotid swelling",
+               "answer_index": 4
+             },
+             {
+               "id": 3236,
+               "question": "Botulism is characterized by:",
+               "options": ["hepatosplenomegaly", "fever", "rash", "diplopia", "hypercalcemia"],
+               "answer": "diplopia",
+               "answer_index": 3
+             },
+             {
+               "id": 3237,
+               "question": "Symptoms of pyridoxine (B6) deficiency are similar to those seen with the deficiency of:",
+               "options": ["cyanocobalamin (B12)", "ascorbic acid", "niacin", "riboflavin (B2)", "thiamine (B1)"],
+               "answer": "cyanocobalamin (B12)",
+               "answer_index": 0
+             },
+             {
+               "id": 3238,
+               "question": "The drug of choice for symptomatic patients with toxoplasmosis (caused by protozoon) is:",
+               "options": ["corticosteroids", "clindamycin", "pyrimethamine/sulfadiazine", "trimethoprim sulphamethoxazole", "tetracycline"],
+               "answer": "pyrimethamine/sulfadiazine",
+               "answer_index": 2
+             },
+             {
+               "id": 3239,
+               "question": "Toxoplasmosis is caused by:",
+               "options": ["virus", "parasite", "protozoa", "spirochete", "rickettsia"],
+               "answer": "protozoa",
+               "answer_index": 2
+             },
+             {
+               "id": 3240,
+               "question": "Courvoisier's law (palpable gallbladder and jaundice) and Trousseau's sign (migratory thrombophlebitis) are associated with:",
+               "options": ["splenic rupture", "hepatoma", "peptic ulcer", "gastric cancer", "pancreatic cancer"],
+               "answer": "pancreatic cancer",
+               "answer_index": 4
+             },
+             {
+               "id": 3241,
+               "question": "Following are criteria for the diagnosis of systemic lupus erythematosus, EXCEPT:",
+               "options": ["malar rash", "photosensitivity", "leukocytosis", "serositis", "thrombocytopenia"],
+               "answer": "leukocytosis",
+               "answer_index": 2
+             },
+             {
+               "id": 3242,
+               "question": "Systemic lupus erythematosus is LEAST likely to be associated with:",
+               "options": ["hepatitis", "synovitis", "myocarditis", "conjunctivitis", "pleurisy (pleuritis)"],
+               "answer": "hepatitis",
+               "answer_index": 0
+             },
+             {
+               "id": 3243,
+               "question": "The sulfonamides are contraindicated in the latter part of pregnancy because of the risk of neonatal:",
+               "options": ["hemorrhage", "blindness", "deafness", "teeth discoloration", "kernicterus"],
+               "answer": "kernicterus",
+               "answer_index": 4
+             },
+             {
+               "id": 3244,
+               "question": "The most common cause of cirrhosis of the liver in North America is:",
+               "options": ["hemochromatosis", "alcoholic hepatitis", "drug induced hepatitis", "viral hepatitis", "primary biliary cirrhosis"],
+               "answer": "alcoholic hepatitis",
+               "answer_index": 1
+             },
+             {
+               "id": 3245,
+               "question": "Congenital intracranial aneurysms:",
+               "options": ["are usually symptomatic", "are more common in children than in adults", "usually occur at arterial biforcations", "are never multiple", "cause epidural hemorrhage when rupture"],
+               "answer": "usually occur at arterial biforcations",
+               "answer_index": 2
+             },
+             {
+               "id": 3246,
+               "question": "The most reliable test for diagnosis of transient ischemic attacks is:",
+               "options": ["bilateral carotid arteriography", "CT scan of the head", "ultrasound", "X ray of the head", "electroencephalogram"],
+               "answer": "bilateral carotid arteriography",
+               "answer_index": 0
+             },
+             {
+               "id": 3247,
+               "question": "Drop attacks (atonic seizures, falls without warning/without loss of consciousness) are associated with:",
+               "options": ["epileptic seizure", "migraine headache", "pseudotumor cerebri", "subarachnoid hemorrhage (saccular aneurysms)", "transient ischemic attacks (vertebrobasilar ischemia)"],
+               "answer": "transient ischemic attacks (vertebrobasilar ischemia)",  
+               "answer_index": 4
+             },
+             {
+               "id": 3248,
+               "question": "Following are features of cholera, EXCEPT:",
+               "options": ["severe (rice-water) diarrhea", "marked dehydration", "metabolic alkalosis", "marked hemoconcentration", "hypotension/hypokalemia"],
+               "answer": "metabolic alkalosis",
+               "answer_index": 2
+             },
+             {
+               "id": 3249,
+               "question": "Nearly all patients who receive a full course of radiation therapy for cancer of the lung/breast develop:",
+               "options": ["leukemia", "hepatitis", "skin ulcers", "polycythemia", "pulmonary fibrosis"],
+               "answer": "pulmonary fibrosis",
+               "answer_index": 4
+             },
+             {
+               "id": 3250,
+               "question": "Allergic bronchopulmonary aspergillosis is best treated with:",
+               "options": ["bronchodilators", "anticholinergics", "antimediators", "corticosteroids/prednisone", "theophyllines/amphotericin B"],
+               "answer": "corticosteroids/prednisone",
+               "answer_index": 3
+             },
+             {
+               "id": 3251,
+               "question": "Cystic fibrosis is LEAST likely to be associated with:",
+               "options": ["digital clubbing", "abnormal xylose absorption", "glomerulonephritis", "nasal polyps", "gallstones/biliary cirrhosis"],
+               "answer": "glomerulonephritis",
+               "answer_index": 2
+             },
+             {
+               "id": 3252,
+               "question": "Intrauterine device (IUD) has a failure rate of 2%-3%. absolute contraindication/s of (IUD) is/are:",
+               "options": ["multiple sexual partners", "pregnancy/pelvic inflammatory disease", "diabetes mellitus/history of ectopic pregnancy", "severe dysmenorrhea/endometrial hyperplasia", "valvular heart disease"],
+               "answer": "pregnancy/pelvic inflammatory disease",
+               "answer_index": 1
+             },
+             {
+               "id": 3253,
+               "question": "The typical site of herpes zoster (shingles) is:",
+               "options": ["lower extremities", "face/hands", "intertriginous areas", "lower abdomen", "distribution of a nerve root"],
+               "answer": "distribution of a nerve root",
+               "answer_index": 4
+             },
+             {
+               "id": 3254,
+               "question": "The average incubation period in varicella (chickenpox) is:",
+               "options": ["4 days", "9 days", "14 days", "20 days", "one month"],
+               "answer": "14 days",
+               "answer_index": 2
+             },
+             {
+               "id": 3255,
+               "question": "Stein Leventhal syndrome (polycystic ovary syndrome) is characterized by amenorrhea/hirsutism/obesity and:",
+               "options": ["low estrogen levels", "high serum FSH", "high serum LH", "low urinary 17 ketosteroids", "low plasma testosterone"],
+               "answer": "high serum LH",
+               "answer_index": 2
+             },
+             {
+               "id": 3256,
+               "question": "Sheehan's syndrome is associated with pituitary:",
+               "options": ["trauma", "adenoma", "fibrosis", "hyperplasia", "hemorrhagic necrosis"],
+               "answer": "hemorrhagic necrosis",
+               "answer_index": 4
+             },
+             {
+               "id": 3257,
+               "question": "The most important test for the diagnosis of adrenogenital syndrome is:",
+               "options": ["plasma cortisol", "urinary 17 ketosteroid", "urinary gonadotropines", "serum LH", "dexamethasone suppression test"],
+               "answer": "urinary 17 ketosteroid",
+               "answer_index": 1
+             },
+             {
+               "id": 3258,
+               "question": "The most common malignant bone tumor after 60 years of age is:",
+               "options": ["osteogenic sarcoma", "Ewing's tumor", "primary chondrosarcoma", "multiple myeloma", "fibrosarcoma"],
+               "answer": "multiple myeloma",
+               "answer_index": 3
+             },
+             {
+               "id": 3259,
+               "question": "The most common cause of hypoparathyroidism is:",
+               "options": ["idiopathic", "inflammatory", "thyroidectomy", "neoplastic", "congenital"],
+               "answer": "thyroidectomy",
+               "answer_index": 2
+             },
+             {
+               "id": 3260,
+               "question": "The most common site of osteogenic sarcoma (osteosarcoma) is:",
+               "options": ["distal metaphysis of the humerus", "proximal metaphysis of the humerus", "proximal metaphysis of the ulna", "distal metaphysis of the femur", "diaphysis of the humerus"],
+               "answer": "distal metaphysis of the femur",
+               "answer_index": 3
+             },
+             {
+               "id": 3261,
+               "question": "Which of the following is caused by human herpes virus type 6 and 7?",
+               "options": ["roseola", "measles", "rubella", "infectious mononucleosis", "erythema infectiosum (fifth disease)"],
+               "answer": "roseola",
+               "answer_index": 0
+             },
+             {
+               "id": 3262,
+               "question": "Which of the following is caused by human parvovirus B19?",
+               "options": ["roseola", "measles", "rubella", "infectious mononucleosis", "erythema infectiosum (fifth disease)"],
+               "answer": "erythema infectiosum (fifth disease)",
+               "answer_index": 4
+             },
+             {
+               "id": 3263,
+               "question": "Which of the following is caused by paramyxovirus?",
+               "options": ["roseola", "measles", "rubella", "infectious mononucleosis", "erythema infectiosum (fifth disease)"],
+               "answer": "measles",
+               "answer_index": 1
+             },
+             {
+               "id": 3264,
+               "question": "In North America, AIDS is most common among:",
+               "options": ["hemophiliacs", "heterosexual individuals", "homosexual or bisexual men", "homosexual intravenous drug users", "homosexual or bisexual intravenous drug users"],
+               "answer": "homosexual or bisexual men",
+               "answer_index": 2
+             },
+             {
+               "id": 3265,
+               "question": "In ages less than 50 years, arcus senilis indicates:",
+               "options": ["hyperammonemia", "hyperprolactinoma", "hyperaldosteronism", "hyperparathyroidism", "hypercholesterolemia"],
+               "answer": "hypercholesterolemia",
+               "answer_index": 4
+             },
+             {
+               "id": 3266,
+               "question": "Which of the following types of glaucoma is the most common?",
+               "options": ["congenital glaucoma", "normal pressure glaucoma", "chronic open angle glaucoma", "acute angle closure glaucoma", "chronic angle closure glaucoma"],
+               "answer": "chronic open angle glaucoma",
+               "answer_index": 2
+             },
+             {
+               "id": 3267,
+               "question": "Following are characteristics of SIADH, EXCEPT:",
+               "options": ["salt wasting", "hyponatremia", "concentrated urine", "high plasma osmolarity", "high urinary osmolarity"],
+               "answer": "high plasma osmolarity",
+               "answer_index": 3
+             },
+             {
+               "id": 3268,
+               "question": "Tzanck smear or cells (multinucleated giant cells) are seen in 75% of cases of:",
+               "options": ["impetigo", "tularemia", "gonorrhea", "erythrasma", "genital herpes"],
+               "answer": "genital herpes",
+               "answer_index": 4
+             },
+             {
+               "id": 3269,
+               "question": "Renal secretion of potassium is decreased by:",
+               "options": ["alkalosis", "aldosterone", "spironolactone", "hyperparathyroidism", "diet high in potassium"],
+               "answer": "spironolactone",
+               "answer_index": 2
+             },
+             {
+               "id": 3270,
+               "question": "Sever skeletomuscular pain is characteristic of:",
+               "options": ["malaria", "dengue fever", "yellow fever", "typhoid fever", "none of the above"],
+               "answer": "dengue fever",
+               "answer_index": 1
+             },
+             {
+               "id": 3271,
+               "question": "Metabolic alkalosis is caused by:",
+               "options": ["diarrhea", "hyperaldosteronism", "adrenal insufficiency", "chronic renal failure", "methanol (methyl alcohol) poisoning"],
+               "answer": "hyperaldosteronism",
+               "answer_index": 1
+             },
+             {
+               "id": 3272,
+               "question": "Respiratory acidosis is most compatible with:",
+               "options": ["pH = 7.41, HCO3 = 30, Pco2 = 42", "pH = 7.42, HCO3 = 42, Pco2 = 40", "pH = 7.31, HCO3 = 28, Pco2 = 62", "pH = 7.48, HCO3 = 16, Pco2 = 18", "pH = 7.67, HCO3 = 46, Pco2 = 48"],
+               "answer": "pH = 7.31, HCO3 = 28, Pco2 = 62",
+               "answer_index": 2
+             },
+             {
+               "id": 3273,
+               "question": "Berger's disease (IgA nephropathy) is associated with primary glomerulonephritis type:",
+               "options": ["membranous", "minimal changes", "non-proliferative", "mesangial proliferative", "focal segmental sclerosis"],
+               "answer": "mesangial proliferative",
+               "answer_index": 3
+             },
+             {
+               "id": 3274,
+               "question": "Which of the following ECG changes is typical of hypokalemia?",
+               "options": ["widening QRS", "tall T waves", "prominent U waves", "prolonged PR intervals", "all of the above"],
+               "answer": "prominent U waves",
+               "answer_index": 2
+             },
+             {
+               "id": 3275,
+               "question": "During pregnancy:",
+               "options": ["RBF is decreased", "GFR is decreased", "kidney size is decreased", "serum creatinine and urea are decreased", "renal pelvis and ureters are constricted"],
+               "answer": "serum creatinine and urea are decreased",
+               "answer_index": 3
+             },
+             {
+               "id": 3276,
+               "question": "A patient with leukemia develops pneumonia, which of the following is most likely to be the cause?",
+               "answer": "cytomegalovirus",
+               "answer_index": 3
+             },
+             {
+               "id": 3277,
+               "question": "An AIDS patient with decreased vision develops hemiparesis and then quadriparesis, the most likely diagnosis is:",
+               "options": ["poliomyelitis", "multiple sclerosis", "Creutzfeldt Jakob disease", "subacute sclerosing panencephalitis (SSP)", "progressive multifocal leukoencephalitis (PML)"],
+               "answer": "progressive multifocal leukoencephalitis (PML)",
+               "answer_index": 4
+             },
+             {
+               "id": 3278,
+               "question": "The most common cause of anaerobic infection in humans is:",
+               "options": ["bacteroides", "fusobacterium", "anaerobic cocci", "clostridium difficile", "clostridium perfringens"],
+               "answer": "bacteroides",
+               "answer_index": 0
+             },
+             {
+               "id": 3279,
+               "question": "Abdominal cramps is LEAST likely to be caused by:",
+               "options": ["vibrio cholerae", "bacillus cereus", "escherichia coli", "staphylococcus aureus", "clostridium perfringens"],
+               "answer": "vibrio cholerae",
+               "answer_index": 0
+             },
+             {
+               "id": 3280,
+               "question": "Following are symptoms of acute viral hepatitis, EXCEPT:",
+               "options": ["rash", "fever", "jaundice", "dark urine", "dark stools"],
+               "answer": "dark stools",
+               "answer_index": 4
+             },
+             {
+               "id": 3281,
+               "question": "The most common form of acute hepatitis in children in hepatitis:",
+               "options": ["A", "B", "C", "D", "E"],
+               "answer": "A",
+               "answer_index": 0
+             },
+             {
+               "id": 3282,
+               "question": "Cigarette smoking causes anal cancer and:",
+               "options": ["macrosomy", "renal cancer", "thyroid cancer", "chronic hepatitis", "all of the above"],
+               "answer": "renal cancer",
+               "answer_index": 1
+             },
+             {
+               "id": 3283,
+               "question": "ECG shows large R waves with ST-segment depression in leads V1 and V2, the most likely diagnosis is:",
+               "options": ["LBBB", "hyperkalemia", "inferior infarct", "posterior infarct", "pericardial effusion"],
+               "answer": "posterior infarct",
+               "answer_index": 3
+             },
+             {
+               "id": 3284,
+               "question": "Arterial blood values show pH = 7.42, Pco2 = 42 and HCO3 = 24, the most likely diagnosis is:",
+               "options": ["normal status", "metabolic acidosis", "metabolic alkalosis", "respiratory acidosis", "respiratory alkalosis"],
+               "answer": "normal status",
+               "answer_index": 0
+             },
+             {
+               "id": 3285,
+               "question": "The safest tetracycline given to patients with renal failure is:",
+               "options": ["minocycline", "doxycycline", "methacycline", "demeclocycline", "oxytetracycline"],
+               "answer": "doxycycline",
+               "answer_index": 1
+             },
+             {
+               "id": 3286,
+               "question": "Auer rod (an eosinophilic needlelike blast cell) is pathognomonic of:",
+               "options": ["acute lymphoblastic leukemia", "acute myeloid (myeogenous) leukemia", "chronic myelocytic leukemia", "hairy cell leukemia", "Hodgkin's lymphoma"],
+               "answer": "acute myeloid (myeogenous) leukemia",
+               "answer_index": 1
+             },
+             {
+               "id": 3287,
+               "question": "The most common cause of sepsis (septicemia) and death in burn patients is:",
+               "options": ["klebsiella pneumoniae", "pseudomonas aeruginosa", "escherichia coli", "borrelia burgdorferi", "haemophilus influenzae"],
+               "answer": "pseudomonas aeruginosa",
+               "answer_index": 1
+             },
+             {
+               "id": 3288,
+               "question": "The causative agent in bubonic plague (transmitted by flea bite/treated with streptomycin) is:",
+               "options": ["bacterial", "viral", "chlamydial", "protozoal", "unknown"],
+               "answer": "bacterial",
+               "answer_index": 0
+             },
+             {
+               "id": 3289,
+               "question": "The causative agent in Kawasaki's disease is:",
+               "options": ["bacterial", "viral", "chlamydial", "protozoal", "unknown"],
+               "answer": "unknown",
+               "answer_index": 4
+             },
+             {
+               "id": 3290,
+               "question": "Bubonic plague is caused by:",
+               "options": ["yersinia pestis (aerobic gram-negative rod)", "haemophilus ducreyi", "borrelia recurrentis", "borrelia burgdorferi", "rickettsia prowazekii"],
+               "answer": "yersinia pestis (aerobic gram-negative rod)",
+               "answer_index": 0
+             },
+             {
+               "id": 3291,
+               "question": "Epidemic louse-borne typhus (classical typhus fever) is caused by:",
+               "options": ["donovania granulomatis", "haemophilus ducreyi", "borrelia recurrentis", "borrelia burgdorferi", "rickettsia prowazekii"],
+               "answer": "rickettsia prowazekii",
+               "answer_index": 4
+             },
+             {
+               "id": 3292,
+               "question": "Relapsing fever is caused by:",
+               "options": ["donovania granulomatis", "haemophilus ducreyi", "borrelia recurrentis", "borrelia burgdorferi", "haemophilus influenzae"],
+               "answer": "borrelia recurrentis",
+               "answer_index": 2
+             },
+             {
+               "id": 3293,
+               "question": "Strawberry spots on the vaginal mucosa are most likely to be seen in:",
+               "options": ["syphilis", "gonorrhea", "candidiasis", "trichomoniasis", "granuloma inguinale"],
+               "answer": "trichomoniasis",
+               "answer_index": 3
+             },
+             {
+               "id": 3294,
+               "question": "Raspberry or strawberry tongue is associated with:",
+               "options": ["trichomoniasis", "measles", "mumps", "scarlet fever", "infective endocarditis"],
+               "answer": "scarlet fever",
+               "answer_index": 3
+             },
+             {
+               "id": 3295,
+               "question": "Starvation decreases glucose and insulin, increases glucagone and ketone body in the blood and causes:",
+               "options": ["hypochromic microcytic anemia", "hypochromic normocytic anemia", "hyperchromic macrocytic anemia", "hemolysis", "none of the above"],
+               "answer": "hypochromic normocytic anemia",
+               "answer_index": 1
+             },
+             {
+               "id": 3296,
+               "question": "Self mutilation/hyperuricemia are associated with:",
+               "options": ["Wilson's disease", "Turner's syndrome", "Fabry's disease", "Lesch Nyhan syndrome", "Von Hippel Lindau disease"],
+               "answer": "Lesch Nyhan syndrome",
+               "answer_index": 3
+             },
+             {
+               "id": 3297,
+               "question": "Progressive renal failure is most likely to occur in:",
+               "options": ["Wilson's disease", "Turner's syndrome", "Fabry's disease", "Lesch Nyhan syndrome", "Von Hippel Lindau disease"],
+               "answer": "Fabry's disease",
+               "answer_index": 2
+             },
+             {
+               "id": 3298,
+               "question": "A karyotype of 46XX is often seen in:",
+               "options": ["Down's syndrome", "Klinefelter's syndrome", "Turner's syndrome", "testicular feminization", "true hermaphroditism"],
+               "answer": "true hermaphroditism",
+               "answer_index": 4
+             },
+             {
+               "id": 3299,
+               "question": "A karyotype of 46XY is associated with:",
+               "options": ["Down's syndrome", "Klinefelter's syndrome", "Turner's syndrome", "testicular feminization", "true hermaphroditism"],
+               "answer": "testicular feminization",
+               "answer_index": 3
+             },
+             {
+               "id": 3300,
+               "question": "Following are associated with mental retardation (IQ below 70), EXCEPT:",
+               "options": ["congenital hypothyroidism", "homocystinuria", "McArdle's disease", "retinoblastoma", "Tay Sachs disease"],
+               "answer": "McArdle's disease",
+               "answer_index": 2
+             },
+             {
+               "id": 3301,
+               "question": "Following are associated with mental retardation, EXCEPT:",
+               "options": ["neurofibromatosis", "homocystinuria", "Niemann Pick disease", "galactosemia", "Tay Sachs disease"],
+               "answer": "neurofibromatosis",
+               "answer_index": 0
+             },
+             {
+               "id": 3302,
+               "question": "Death from systemic lupus erythematosus is usually due to:",
+               "options": ["pneumonia", "cardiac failure", "asphyxia", "renal failure", "sepsis"],
+               "answer": "renal failure",
+               "answer_index": 3
+             },
+             {
+               "id": 3303,
+               "question": "Absolute contraindication to combined birth control pill include:",
+               "options": ["hypertension", "diabetes mellitus", "migraine headache", "history of hepatic tumor", "active gallbladder disease"],
+               "answer": "history of hepatic tumor",
+               "answer_index": 3
+             },
+             {
+               "id": 3304,
+               "question": "Mittelschmerz is the pain caused by:",
+               "options": ["pericardial effusion", "pleural effusion", "ectopic pregnancy", "ovarian torsion", "ruptured follicular cyst at the time of ovulation"],
+               "answer": "ruptured follicular cyst at the time of ovulation",
+               "answer_index": 4
+             },
+             {
+               "id": 3305,
+               "question": "Blepharitis is particularly common in children with:",
+               "options": ["necrotizing enterocolitis", "maple syrup urine disease", "phenylketonuria", "Down's syndrome", "coarctation of the aorta"],
+               "answer": "Down's syndrome",
+               "answer_index": 3
+             },
+             {
+               "id": 3306,
+               "question": "Characteristic (E shape) of esophagus on barium swallow is seen in:",
+               "options": ["patent ductus arteriosus", "coarctation of the aorta", "mitral valve prolapse", "aortic stenosis", "atrial septal defect"],
+               "answer": "coarctation of the aorta",
+               "answer_index": 1
+             },
+             {
+               "id": 3307,
+               "question": "Continuous machinery murmur is heard in:",
+               "options": ["patent ductus arteriosus", "Ebstein's anomaly", "mitral valve prolapse", "aortic stenosis", "atrial septal defect"],
+               "answer": "patent ductus arteriosus",
+               "answer_index": 0
+             },
+             {
+               "id": 3308,
+               "question": "Osteogenic sarcoma/Ewing's sarcoma of the bone most frequently present:",
+               "options": ["painful bone mass", "no symptoms", "headache", "paraplegia", "painless bone mass"],
+               "answer": "painful bone mass",
+               "answer_index": 0
+             },
+             {
+               "id": 3309,
+               "question": "Periosteal elevation/lytic destruction/(onion skin or onion peel) appearance on bone X ray are seen in:",
+               "options": ["multiple myeloma", "osteogenic sarcoma", "Ewing's sarcoma", "osteomyelitis", "eosinophilic granuloma of bone"],
+               "answer": "Ewing's sarcoma",
+               "answer_index": 2
+             },
+             {
+               "id": 3310,
+               "question": "The most common brain tumor in children is:",
+               "options": ["astrocytoma", "medulloblastoma", "glioblastoma multiforme", "craniopharyngioma", "oligodendroglioma"],
+               "answer": "astrocytoma",
+               "answer_index": 0
+            },
+            {
+               "id": 3311,
+               "question": "Children with neuroblastoma (the most common congenital tumor occurring during the first year of life) usually present:",
+               "options": ["maculopapular rash", "polyuria", "constipation", "nausea/vomiting", "palpable abdominal mass"],
+               "answer": "palpable abdominal mass",
+               "answer_index": 4
+             },
+             {
+               "id": 3312,
+               "question": "Histoplasmosis is best treated with:",
+               "options": ["metronidazole", "vancomycin", "amphotericin B", "griseofulvin", "streptomycin"],
+               "answer": "amphotericin B",
+               "answer_index": 2
+             },
+             {
+               "id": 3313,
+               "question": "Schistosomiasis is best treated with:",
+               "options": ["furazolidone", "praziquantel", "metronidazole", "pyrimethamine", "mebendazole"],
+               "answer": "praziquantel",
+               "answer_index": 1
+             },
+             {
+               "id": 3314,
+               "question": "The most common presentation of acquired toxoplasmosis is:",
+               "options": ["cervical adenopathy", "maculopapular rash", "fever", "splenomegaly", "chorioretinitis"],
+               "answer": "cervical adenopathy",
+               "answer_index": 0
+             },
+             {
+               "id": 3315,
+               "question": "The most characteristic feature of Lyme disease is:",
+               "options": ["fever/chills", "headache/myalgia", "Bell's palsy", "arthritis", "erythema migrans"],
+               "answer": "erythema migrans",
+               "answer_index": 4
+             },
+             {
+               "id": 3316,
+               "question": "Weil's disease (icterohemorrhagic fever) is characterized by jaundice and high mortality rate which is a severe form of:",
+               "options": ["tularemia", "listeriosis", "psittacosis", "leptospirosis", "relapsing fever"],
+               "answer": "leptospirosis",
+               "answer_index": 3
+             },
+             {
+               "id": 3317,
+               "question": "Relapsing fever (borreliosis) is usually diagnosed by:",
+               "options": ["blood culture", "muscle biopsy", "lymph node biopsy", "microscopic examination of the blood", "microscopic examination of the urine"],
+               "answer": "microscopic examination of the blood",
+               "answer_index": 3
+             },
+             {
+               "id": 3318,
+               "question": "Chlamydia psittaci (psittacosis) is transmitted to humans mainly by:",
+               "options": ["humans", "cows", "birds", "raccoons", "skunks"],
+               "answer": "birds",
+               "answer_index": 2
+             },
+             {
+               "id": 3319,
+               "question": "Classic (snowstorm) appearance on chest X ray is seen in:",
+               "options": ["mycoplasmal pneumonia", "sarcoidosis", "legionella infection", "miliary tuberculosis", "bronchial asthma"],
+               "answer": "miliary tuberculosis",
+               "answer_index": 3
+             },
+             {
+               "id": 3320,
+               "question": "The most common cause of acute purulent otitis media is:",
+               "options": ["staphylococcus epidermatidis", "escherichia coli", "staphylococcus aureus", "streptococcus (pneumococcus) pneumonia", "haemophilus influenzae type B"],
+               "answer": "streptococcus (pneumococcus) pneumonia",
+               "answer_index": 3
+             },
+             {
+               "id": 3321,
+               "question": "Group B streptococcal disease (which is most common in infants) is best treated with:",
+               "options": ["penicillin G", "amphotericin B", "ampicillin", "erythromycin", "corticosteroids"],
+               "answer": "penicillin G",
+               "answer_index": 0
+             },
+             {
+               "id": 3322,
+               "question": "Which of the following is the most common cause of septic arthritis in childern less than 2 years:",
+               "options": ["salmonella", "escherichia coli", "neisseria gonorrheae", "staphylococcus aureus", "pseudomonas aeruginosa"],
+               "answer": "escherichia coli",
+               "answer_index": 1
+             },
+             {
+               "id": 3323,
+               "question": "Cholera is best prevented by:",
+               "options": ["amoxicillin", "ampicillin", "streptomycin", "kanamycin", "vancomycin"],
+               "answer": "streptomycin",
+               "answer_index": 2
+             },
+             {
+               "id": 3324,
+               "question": "Shigellosis (bacillary dysentery) is best treated with:",
+               "options": ["amoxicillin", "trimethoprim sulphamethoxazole", "streptomycin", "kanamycin", "vancomycin"],
+               "answer": "trimethoprim sulphamethoxazole",
+               "answer_index": 1
+             },
+             {
+               "id": 3325,
+               "question": "The most common cause of abnormal uterine bleeding is:",
+               "options": ["trauma", "tumor", "infection", "coagulopathy", "dysfunctional uterine bleeding"],
+               "answer": "dysfunctional uterine bleeding",
+               "answer_index": 4
+             },
+             {
+               "id": 3326,
+               "question": "The usual site of ganglion is:",
+               "options": ["ankle", "elbow", "vertebral spine", "finger", "wrist"],
+               "answer": "wrist",
+               "answer_index": 4
+             },
+             {
+               "id": 3327,
+               "question": "The lesion in Legg-Calve-Perthes disease (coxa plana) is located in:",
+               "options": ["tibial tubercle", "calcaneus", "vertebral ring", "femoral head", "tarsal navicular"],
+               "answer": "femoral head",
+               "answer_index": 3
+             },
+             {
+               "id": 3328,
+               "question": "Volkmann's ischemic contracture (compartment syndrome) is associated with:",
+               "options": ["fracture of the hip", "fracture of the femoral head", "fracture of the patella", "fracture of the clavicle", "supracondylar fracture of the humerus"],
+               "answer": "supracondylar fracture of the humerus",
+               "answer_index": 4
+             },
+             {
+               "id": 3329,
+               "question": "Air in bowel wall and/or in biliary tree is seen in:",
+               "options": ["Meckel's diverticulum", "necrotizing enterocolitis", "drug induced colitis", "Hirschsprung's disease", "ulcerative colitis"],
+               "answer": "necrotizing enterocolitis",
+               "answer_index": 1
+             },
+             {
+               "id": 3330,
+               "question": "Meckel's diverticulum (usually presents as painless rectal bleeding/best treated with excision)is best diagnosed by:",
+               "options": ["abdominal X ray", "ultrasound", "99mTc scan", "stool examination", "intestinal biopsy"],
+               "answer": "99mTc scan",
+               "answer_index": 2
+             },
+             {
+               "id": 3331,
+               "question": "Congenital fusion of the cervical vertebrae is seen in:",
+               "options": ["osteoporosis", "Tay Sachs disease", "Marfan syndrome", "Prader Willi syndrome", "Klippel Feil syndrome"],
+               "answer": "Klippel Feil syndrome",
+               "answer_index": 4
+             },
+             {
+               "id": 3332,
+               "question": "Long fingers/toes (arachnodactyly) is associated with:",
+               "options": ["myasthenia gravis", "Tay Sachs disease", "Marfan syndrome", "Prader Willi syndrome", "Down syndrome"],
+               "answer": "Marfan syndrome",
+               "answer_index": 2
+             },
+             {
+               "id": 3333,
+               "question": "Primary brain tumors in children most commonly are:",
+               "options": ["craniopharyngiomas", "germ cell tumors", "glial cell tumors", "meningeal tumors", "lymphomas"],
+               "answer": "glial cell tumors",
+               "answer_index": 2
+             },
+             {
+               "id": 3334,
+               "question": "The hallmark of early renal failure is:",
+               "options": ["hypertension", "oliguria", "uremia", "hypercreatininemia", "hyperkalemia"],
+               "answer": "oliguria",
+               "answer_index": 1
+             },
+             {
+               "id": 3335,
+               "question": "Chlamydial pneumonia with conjunctivitis and cough, occurs most commonly in ages:",
+               "options": ["2 to 12 weeks", "1 to 2 years", "4 to 6 years", "6 to 10 years", "12 to 14 years"],
+               "answer": "2 to 12 weeks",
+               "answer_index": 0
+             },
+             {
+               "id": 3336,
+               "question": "Fever is LEAST likely to be associated with:",
+               "options": ["bacterial pneumonia", "viral pneumonia", "mycoplasmal pneumonia", "chlamydial pneumonia", "aspiration pneumonia"],
+               "answer": "aspiration pneumonia",
+               "answer_index": 3
+             },
+             {
+               "id": 3337,
+               "question": "Mediastinitis is usually due to a complication of:",
+               "options": ["radiotherapy", "lung cancer", "chylothorax", "esophageal carcinoma", "iatrogenic esophageal perforation"],
+               "answer": "iatrogenic esophageal perforation",
+               "answer_index": 4
+             },
+             {
+               "id": 3338,
+               "question": "Which of the following is/are LEAST likely to cause bloody diarrhea?",
+               "options": ["shigella/escherichia coli", "cryptosporidium/yersinia", "clostridium perfringens", "clostridium difficile/campylobacter", "salmonella/vibrio parahaemolyticus"],
+               "answer": "clostridium perfringens",
+               "answer_index": 2
+             },
+             {
+               "id": 3339,
+               "question": "Following are associated with blood in stool, EXCEPT:",
+               "options": ["giardia lamblia", "cryptosporidium", "shigella", "clostridium difficile", "salmonella"],
+               "answer": "giardia lamblia",
+               "answer_index": 0
+             },
+             {
+               "id": 3340,
+               "question": "The most common small bowel cancer in children is:",
+               "options": ["adenocarcinoma", "squamous cell carcinoma", "lymphosarcoma", "leiomyosarcoma", "none of the above"],
+               "answer": "lymphosarcoma",
+               "answer_index": 2
+             },
+             {
+               "id": 3341,
+               "question": "Olive sized mass in the subphrenic location is usually felt in:",
+               "options": ["intussusception", "hiatal hernia", "pyloric stenosis", "Meckel's diverticulum", "congenital megacolon"],
+               "answer": "pyloric stenosis",
+               "answer_index": 2
+             },
+             {
+               "id": 3342,
+               "question": "The most common cause of intestinal obstruction in the first 2 years of life is:",
+               "options": ["foreign body", "intestinal lymphoma", "pyloric stenosis", "Meckel's diverticulum", "intussusception"],
+               "answer": "intussusception",
+               "answer_index": 4
+             },
+             {
+               "id": 3343,
+               "question": "2 year old child with a sausage shaped mass in upper abdomen and blood-stained stools, the most likely diagnosis is:",
+               "options": ["intussusception", "hiatal hernia", "pyloric stenosis", "Meckel's diverticulum", "congenital megacolon"],
+               "answer": "intussusception",
+               "answer_index": 0
+             },
+             {
+               "id": 3344,
+               "question": "(String sign) on X ray is associated with:",
+               "options": ["hiatal hernia", "congenital megacolon", "Meckel's diverticulum", "peptic ulcer/ulcerative colitis", "pyloric stenosis/Crohn's colitis"],
+               "answer": "pyloric stenosis/Crohn's colitis",
+               "answer_index": 4  
+             },
+             {
+               "id": 3345,
+               "question": "The most common pathogen in myocarditis/ pericarditis is:",
+               "options": ["mumps virus", "cytomegalovirus", "herpes virus", "coxackievirus A", "coxackievirus B"],
+               "answer": "coxackievirus B",
+               "answer_index": 4
+             },
+             {
+               "id": 3346,
+               "question": "The most common cyanotic congenital heart defect presenting after 2 weeks of age is:",
+               "options": ["hypoplastic left heart syndrome", "tricuspid atresia", "pulmonary atresia", "Tetralogy of Fallot", "transposition of the great arteries"],
+               "answer": "Tetralogy of Fallot",
+               "answer_index": 3
+             },
+             {
+               "id": 3347,
+               "question": "Midsystolic click followed by late or midsystolic murmur is heard in:",
+               "options": ["patent ductus arteriosus", "ventricular septal defect", "atrial septal defect", "mitral valve prolapse", "coarctation of the aorta"],
+               "answer": "mitral valve prolapse",
+               "answer_index": 3
+             },
+             {
+               "id": 3348,
+               "question": "Among congenital heart diseases, the incidence of ventricular septal defect is about:",
+               "options": ["5%", "10%", "25%", "45%", "50%"],
+               "answer": "25%",
+               "answer_index": 2
+             },
+             {
+               "id": 3349,
+               "question": "The most common cause of congestive heart failure in children is:",
+               "options": ["rheumatic fever", "respiratory disease", "sepsis/acidosis", "myocarditis", "congenital heart disease"],
+               "answer": "congenital heart disease",
+               "answer_index": 4
+             },
+             {
+               "id": 3350,
+               "question": "The most common anterior mediastinal mass in infants is:",
+               "options": ["thymoma", "lymphoma", "thymic cyst", "normal thymus", "teratoma"],
+               "answer": "normal thymus",
+               "answer_index": 3
+             },
+             {
+               "id": 3351,
+               "question": "The most common cause of rapidly developing mediastinal compression in children is:",
+               "options": ["thymoma", "lymphosarcoma", "bronchogenic cyst", "neuroblastoma", "neuroganglioblastoma"],
+               "answer": "neuroblastoma",
+               "answer_index": 3
+             },
+             {
+               "id": 3352,
+               "question": "The most common solid malignant tumor in children under the age of 4 years is:",
+               "options": ["Wilm's tumor (nephroblastoma)", "lymphosarcoma", "adenocarcinoma of pancreas", "neuroblastoma", "hepatoma"],
+               "answer": "neuroblastoma",
+               "answer_index": 3
+             },
+             {
+               "id": 3353,
+               "question": "The most common cause of acute hospital admission in children less than 2 years of age is:",
+               "options": ["viral croup", "bronchitis", "bronchiolitis", "laryngomalacia", "epiglottitis"],
+               "answer": "bronchiolitis",
+               "answer_index": 2
+             },
+             {
+               "id": 3354,
+               "question": "Which of the following is LEAST likely to be seen in chlamydial pneumonia:",
+               "options": ["fever", "wheezes", "cough", "conjunctivitis", "nasal discharge"],
+               "answer": "conjunctivitis",
+               "answer_index": 3
+             },
+             {
+               "id": 3355,
+               "question": "Diagnosis of laryngomalacia (congenital laryngeal stridor) is established by:",
+               "options": ["laryngeal biopsy", "laryngoscopy/X-ray", "pulmonary function tests", "chest X-ray", "arterial blood gases"],
+               "answer": "laryngoscopy/X-ray",
+               "answer_index": 1
+             },
+             {
+               "id": 3356,
+               "question": "Following are features of viral croup, EXCEPT:",
+               "options": ["stridor", "barking cough", "epiglottid enlargement", "absence of fever in most cases", "subepiglottid narrowing (steeple sign)"],
+               "answer": "epiglottid enlargement",
+               "answer_index": 2
+             },
+             {
+               "id": 3357,
+               "question": "Diagnosis of infectious mononucleosis is confirmed by:",
+               "options": ["urinalysis", "monospot test", "sputum culture", "chest X ray", "lymph node biopsy"],
+               "answer": "monospot test",
+               "answer_index": 1
+             },
+             {
+               "id": 3358,
+               "question": "Tiny ulcers on the anterior palate of the oral cavity are most likely due to:",
+               "options": ["infectious mononucleosis", "measles", "oral thrush", "herpangina", "oral syphilis"],
+               "answer": "herpangina",
+               "answer_index": 3
+             },
+             {
+               "id": 3359,
+               "question": "The most common cause of tonsillar abscess is:",
+               "options": ["staphylococcus aureus", "beta hemolytic streptococci", "alpha hemolytic streptococci", "escherichia coli", "bacterioides fragilis"],
+               "answer": "staphylococcus aureus",
+               "answer_index": 0
+             },
+             {
+               "id": 3360,
+               "question": "Death in patients with Ludwig's angina is usually due to:",
+               "options": ["starvation", "pneumonia", "sepsis", "congestive heart failure", "sudden airway obstruction"],
+               "answer": "sudden airway obstruction",
+               "answer_index": 4
+             },
+             {
+               "id": 3361,
+               "question": "Ranula is a:",
+               "options": ["cutaneous ulcer", "mediastinal mass", "parotid cyst", "sublingual cyst", "sublingual node"],
+               "answer": "sublingual cyst",
+               "answer_index": 3
+             },
+             {
+               "id": 3362,
+               "question": "Perleche (fissure of the angle of the mouth) is usually due to:",
+               "options": ["candida albicans", "staphylococcus aureus", "escherichia coli", "streptococcus (pneumococcus)", "haemophilus influenzae"],
+               "answer": "candida albicans",
+               "answer_index": 0
+             },
+             {
+               "id": 3363,
+               "question": "The most common cause of recurrent sinusitis is:",
+               "options": ["septal deviation", "allergic sinusitis", "nasal polyps", "foreign body", "cystic fibrosis"],
+               "answer": "allergic sinusitis",
+               "answer_index": 1
+             },
+             {
+               "id": 3364,
+               "question": "The most common presentation of acute sinusitis in children is:",
+               "options": ["retro - orbital pain", "fever", "headache", "periorbital swelling", "nasal discharge"],
+               "answer": "nasal discharge",
+               "answer_index": 4
+             },
+             {
+               "id": 3365,
+               "question": "The most common infectious disease is:",
+               "options": ["toxoplasmosis", "mycoplasmal pneumonia", "acute viral rhinitis", "amebiasis", "measles"],
+               "answer": "acute viral rhinitis",
+               "answer_index": 2
+             },
+             {
+               "id": 3366,
+               "question": "Recurrent otitis media is effectively treated with:",
+               "options": ["penicillin / erythromycin", "sulfisoxazole / amoxicillin", "streptomycin / kanamycin", "gentamycin / ampicillin", "tetracycline / chloramphenicol"],
+               "answer": "sulfisoxazole / amoxicillin",  
+               "answer_index": 1
+             },
+             {
+               "id": 3367,
+               "question": "Recurrent otitis media is defined as 3 or more episodes of otitis media within a:",
+               "options": ["2 month period", "4 month period", "6 month period", "12 month period", "24 month period"],
+               "answer": "6 month period",
+               "answer_index": 2
+             },
+             {
+               "id": 3368,
+               "question": "The most common ocular disorder in children is:",
+               "options": ["uveitis", "conjunctivitis", "retinitis pigmentosa", "blepharitis", "corneal ulcers"],
+               "answer": "conjunctivitis",
+               "answer_index": 1
+             },
+             {
+               "id": 3369,
+               "question": "The most common cause of infectious neonatal conjunctivitis is:",
+               "options": ["viral", "gonococcal", "pneumococcal", "chlamydial", "staphylococcal"],
+               "answer": "chlamydial",
+               "answer_index": 3
+             },
+             {
+               "id": 3370,
+               "question": "Granuloma annulare is best treated with:",
+               "options": ["corticosteroids", "kwellada", "antibiotics", "radiotherapy", "none of the above"],
+               "answer": "corticosteroids",
+               "answer_index": 0
+             },
+             {
+               "id": 3371,
+               "question": "Lindane (gamma benzene hexachloride, Kwell) is used in treatment of:",
+               "options": ["scabies", "tinea versicolor", "herpes simplex", "molluscum contagiosum", "atopic dermatitis"],
+               "answer": "scabies",
+               "answer_index": 0
+             },
+             {
+               "id": 3372,
+               "question": "Which of the following is used in the treatment of cholinergic effects of mushroom poisoning?",
+               "options": ["naloxone", "physostigmine", "ethanol", "atropine", "methylene blue"],
+               "answer": "atropine",
+               "answer_index": 3
+             },
+             {
+               "id": 3373,
+               "question": "Carbon monoxide poisoning is treated with:",
+               "options": ["naloxone", "physostigmine", "ethanol", "atropine", "oxygen"],
+               "answer": "oxygen",
+               "answer_index": 4
+             },
+             {
+               "id": 3374,
+               "question": "Alopecia/scaly dermatitis are associated with deficiency of:",
+               "options": ["vitamin C", "pyridoxine", "pantothenic acid", "biotin", "cyanocobalamin (B12)"],
+               "answer": "biotin",
+               "answer_index": 3
+             },
+             {
+               "id": 3375,
+               "question": "Vitamin E (tocopherols) appears to protect against coronary artery disease, its deficiency is associated with:",
+               "options": ["beriberi", "hemorrhage", "osteomalacia", "xerophthalmia", "hemolytic anemia"],
+               "answer": "none of the above",
+               "answer_index": 4
+             },
+             {
+               "id": 3376,
+               "question": "Which of the following is a component of hemoglobin (hematocrit)?",
+               "options": ["zinc", "iron", "cobalt", "iodine", "fluorine"],
+               "answer": "iron",
+               "answer_index": 1
+             },
+             {
+               "id": 3377,
+               "question": "Salpingitis (pelvic inflammatory disease/ cervical motion tenderness) in a 20 year old female is best diagnosed by:",
+               "options": ["ultrasound", "laparoscopy", "culdocentesis", "uterine biopsy", "urinalysis/cervical gram stain"],
+               "answer": "laparoscopy",
+               "answer_index": 1
+             },
+             {
+               "id": 3378,
+               "question": "The most common complaint of women with pelvic inflammatory disease is:",
+               "options": ["fever", "vaginal discharge", "abdominal pain", "dysuria", "excessive menstrual bleeding"],
+               "answer": "abdominal pain",
+               "answer_index": 2
+             },
+             {
+               "id": 3379,
+               "question": "The most common initial presentation of acoustic neuroma is:",
+               "options": ["vertigo", "tinnitus", "headache", "ipsilateral deafness", "facial weakness/numbness"],
+               "answer": "ipsilateral deafness",  
+               "answer_index": 3
+             },
+             {
+               "id": 3380,
+               "question": "The most common breast disorder in adolescent girls is:",
+               "options": ["intraductal papilloma", "fibroadenoma", "fibrocystic disease", "breast hypertrophy", "carcinoma of the breast"],
+               "answer": "fibrocystic disease",
+               "answer_index": 2
+             },
+             {
+               "id": 3381,
+               "question": "After accidents, the second most common cause of death in adolescents/young adults is:",
+               "options": ["suicide", "pneumonia", "infection", "neoplasms", "heart disease"],
+               "answer": "suicide",
+               "answer_index": 0
+             },
+             {
+               "id": 3382,
+               "question": "Diagnosis of necrotizing enterocolitis is confirmed by:",
+               "options": ["rectal biopsy", "blood culture", "complete blood count", "presence of pneumatosis intestinalis on X ray", "presence of blood in the stool"],
+               "answer": "presence of pneumatosis intestinalis on X ray",
+               "answer_index": 3
+             },
+             {
+               "id": 3383,
+               "question": "The most common presenting sign in necrotizing enterocolitis is:",
+               "options": ["bradycardia", "abdominal distention", "vomiting", "decreased urine output", "increased apnea"],
+               "answer": "abdominal distention",
+               "answer_index": 1
+             },
+             {
+               "id": 3384,
+               "question": "The mortality rate for neonatal meningitis is approximately:",
+               "options": ["5%", "10%", "25%", "35%", "50%"],
+               "answer": "25%",
+               "answer_index": 2
+             },
+             {
+               "id": 3385,
+               "question": "The most common cause of neonatal respiratory distress syndrome is:",
+               "options": ["meconium aspiration syndrome", "hyaline membrane disease", "spontaneous pneumothorax", "congenital pneumonia", "pleural effusion"],
+               "answer": "hyaline membrane disease",
+               "answer_index": 1
+             },
+             {
+               "id": 3386,
+               "question": "Homonymous hemianopia with macular sparing occurs from cutting the:",
+               "options": ["optic nerve", "optic tract", "optic chiasma", "geniculocalcarine tract", "all of the above"],
+               "answer": "geniculocalcarine tract",
+               "answer_index": 3
+             },
+             {
+               "id": 3387,
+               "question": "Which of the following can NOT cross the blood-brain barrier?",
+               "options": ["H2O", "CO2 and O2", "protein and cholesterol", "non-ionized (lipid-soluble) drugs", "ionized (non-lipid-soluble) drugs"],
+               "answer": "protein and cholesterol",
+               "answer_index": 2
+             },
+             {
+               "id": 3388,
+               "question": "Respiratory response to exercise result in increased:",
+               "options": ["venous Pco2", "O2 consumption", "CO2 production", "ventilation rate", "all of the above"],
+               "answer": "all of the above",
+               "answer_index": 4
+             },
+             {
+               "id": 3389,
+               "question": "Shift of hemoglobin O2 dissociation curve to the left (e.g. fetal hemoglobin / carbon monoxide poisoning) causes increased:",
+               "options": ["pH", "Pco2", "2,3 DPG", "temperature", "all of the above"],
+               "answer": "pH",
+               "answer_index": 0  
+             },
+             {
+               "id": 3390,
+               "question": "The most common cause of ophthalmia neonatorum in North America is:",
+               "options": ["s. aureus", "chlamydia", "herpes simplex", "silver nitrate use", "neisseria gonococcal"],
+               "answer": "chlamydia",
+               "answer_index": 1
+             },
+             {
+               "id": 3391,
+               "question": "Cholecystokinine (CCK) is a GI hormone which inhibits:",
+               "options": ["gastric emptying", "contraction of gallbladder", "pancreatic enzyme secretion", "growth of exocrine pancreas", "all of the above"],
+               "answer": "gastric emptying",
+               "answer_index": 0
+             },
+             {
+               "id": 3392,
+               "question": "Regarding GI motility, the frequency of slow waves is lowest in the stomach and highest in the:",
+               "options": ["colon", "ileum", "rectum", "duodenum", "esophagus"],
+               "answer": "duodenum",
+               "answer_index": 3
+             },
+             {
+               "id": 3393,
+               "question": "Which of the following gastric hormones stimulates insulin release?",
+               "options": ["gastrin", "secretin", "cholecystokinin (CCK)", "gastric inhibitory peptide (GIP)", "all of the above"],
+               "answer": "gastric inhibitory peptide (GIP)",
+               "answer_index": 3
+             },
+             {
+               "id": 3394,
+               "question": "Which of the following gastric hormones is chemically homologous to glucagon?",
+               "options": ["gastrin", "secretin", "cholecystokinin (CCK)", "gastric inhibitory peptide (GIP)", "all of the above"],
+               "answer": "secretin",
+               "answer_index": 1
+             },
+             {
+               "id": 3395,
+               "question": "Which of the following is decreased during hemorrhage?",
+               "options": ["angiotensin II", "renin and heart rate", "aldosterone, ADH and TPR", "epinephrine and norepinephrine", "none of the above"],
+               "answer": "none of the above",
+               "answer_index": 4
+             },
+             {
+               "id": 3396,
+               "question": "Parotid gland swellings are malignant in:",
+               "options": ["20%", "45%", "60%", "75%", "90%"],
+               "answer": "20%",
+               "answer_index": 0
+             },
+             {
+               "id": 3397,
+               "question": "Submandibular gland swellings are malignant in:",
+               "options": ["20%", "45%", "60%", "75%", "90%"],
+               "answer": "75%",
+               "answer_index": 3
+             },
+             {
+               "id": 3398,
+               "question": "Secondary adrenocortical insufficiency:",
+               "options": ["causes hyperkalemia", "causes hyperpigmentation", "causes volume contraction", "causes metabolic alkalosis", "is due to primary ACTH deficiency"],
+               "answer": "is due to primary ACTH deficiency",
+               "answer_index": 4
+             },
+             {
+               "id": 3399,
+               "question": "Secretion of growth hormone (somatotropin) is increased by:",
+               "options": ["obesity", "pregnancy", "hypoglycemia", "somatostatin", "somatomedins"],
+               "answer": "hypoglycemia",
+               "answer_index": 2
+             },
         {
             "id": 3400,
             "question": "Conn's syndrome (hyperaldosteronism) is characterized by:",
