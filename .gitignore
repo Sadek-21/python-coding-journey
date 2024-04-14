@@ -1,0 +1,13 @@
+*.log
+
+config.json
+
+node_modules/
+
+venv/
+
+input/*xlsxx
+
+temp/
+
+*.ext

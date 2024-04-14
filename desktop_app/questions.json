@@ -5460,6 +5460,19 @@
             ],
             "answer": "e",
             "answer_index": 4
+        },
+        {
+            "id": 3500,
+            "question": "Following are causes or predisposing factors for osteoporosis, EXCEPT:",
+            "options": [
+                "rheumatoid arthritis",
+                "Cushing's syndrome",
+                "homocystinuria",
+                "steroid therapy",
+                "multiparity"
+            ],
+            "answer": "e",
+            "answer_index": 4
         }
     ]
  }
