@@ -15,3 +15,12 @@ while True:
                 bday = input()
                 birthdays[name] = bday
                 print('Birthday database updated.')
+
+
+for v in birthdays.values():
+    print(v)
+    
+for i in birthdays.items():
+    print(i)
+    
+
