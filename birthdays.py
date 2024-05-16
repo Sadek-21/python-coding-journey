@@ -28,3 +28,7 @@ spam = {'color' : 'red' , 'age' : 42}
 
 for k, v in spam.items():
     print('Key: ' + k + ' Value: ' + str(v))
+
+
+spam1 = {'name': 'Pooka', 'age': 5}
+spam1.setdefault('color', 'black')
