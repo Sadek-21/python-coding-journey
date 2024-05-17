@@ -7,7 +7,7 @@ for guessesTaken in range(1,7):
     print('Take a guesse')
     guess = int(input())
 
-    if guess < secretnumber:
+    if guess < secretnumber
         print('Your guesse is too low.')
     elif guess > secretnumber:
         print('Your guesse is too high')
