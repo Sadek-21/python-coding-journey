@@ -3,8 +3,7 @@ from tkinter import messagebox
 import json
 import random
 import os
-import sys
-
+import sy
 class QuizApp:
     def __init__(self, master, questions):
         self.master = master
