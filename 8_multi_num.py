@@ -6,3 +6,5 @@ for i in range(11):
     M = i * A 
     print( A, " x " , i ," = " ,M )
     i = i + 1
+    
+print("see you next time")
